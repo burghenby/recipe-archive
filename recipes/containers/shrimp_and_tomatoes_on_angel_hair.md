@@ -1,6 +1,6 @@
 # Shrimp and Tomatoes on Angel Hair
 
-- Source: Good and Gather Angel Hair Pasta Box
+- **Source**: *Good and Gather* angel hair pasta box
 ---
 
 ## Ingredients
