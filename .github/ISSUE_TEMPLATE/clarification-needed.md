@@ -3,7 +3,7 @@ name: Clarification Needed
 about: When clarification is needed about a recipe due to illegibility, inconsisitency,
   or other issues
 title: ''
-labels: help wanted, wth is this
+labels: wth is this
 assignees: burghenby
 
 ---
