@@ -5,7 +5,7 @@
 
 ## Ingredients
 
-- 1/2 (16-oz.) pkg. angel hair pasta
+- 1/2 (16-oz.) pkg. Good and Gather angel hair pasta
 - 2 Tbsp. olive oil
 - 1 (16-oz.) pkg. frozen large raw shrimp, thawed
 - 1 small onion, finely chopped

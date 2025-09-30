@@ -9,7 +9,7 @@
 - 1 cup milk
 - 1 Tbsp. butter
 - 1/2 tsp. salt, if desired
-- 1/2 (16-oz.) pkg. elbow macaroni (about 2 cups)
+- 1/2 (16-oz.) pkg. Good and Gather elbow macaroni (about 2 cups)
 - 1 (8-oz.) pkg. shredded Cheddar cheese (2 cups)
 
 ## Directions

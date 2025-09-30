@@ -6,7 +6,7 @@
 ## Ingredients
 
 - 2 cups all-purpose flour
-- 2 1/2 tsp baking powder
+- 2 1/2 tsp Clabber Girl baking powder
 - 1/2 tsp salt
 - 1/3 cup shortening
 - 3/4 cup milk
