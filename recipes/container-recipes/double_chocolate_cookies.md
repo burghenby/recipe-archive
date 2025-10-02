@@ -21,6 +21,6 @@
 
 1) Cream sugar and butter; beat in egg and vanilla. Beat in flour, cocoa and baking soda on low speed. Stir in chocolate chips.
 2) Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets.
-3) Bake at 375 degres F. for 8 to 11 minutes or until set. Cool 1 minute; remove from cookie sheets.
+3) Bake at 375°F. for 8 to 11 minutes or until set. Cool 1 minute; remove from cookie sheets.
 
 *3 dozen cookies*

@@ -14,6 +14,7 @@
 
 ## Directions
 
+Degree for copy-paste °
 Provide directions as formatted in the given recipe. (Uniform formatting can be applied at a later time in the archive project.) Formatting given by the original recipes can include:
 
 1. Numbered list
