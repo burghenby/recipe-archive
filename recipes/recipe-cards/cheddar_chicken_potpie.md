@@ -1,3 +1,11 @@
+|Type|Origin|Issues|
+|----|------|------|
+|Main Course|Magazine|None|
+
+|Protein|Dairy|Vegetables|Fruit|Spices|Herbs|Sugars|
+|--|--|--|--|--|--|--|
+|Chicken|Cheese,Cheddar; Milk,2%|Mixed|None|None|Thyme,dried|None|
+
 # Easy Cheddar Chicken Potpie
 
 - **Source**: *Taste of Home* magazine recipe card insert by Linda Drees
