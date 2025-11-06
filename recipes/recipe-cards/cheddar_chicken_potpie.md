@@ -1,15 +1,10 @@
----
-title: Béchamel sauce
-date: 2021-02-28T18:58:15
-issue_id: 112
-issue_link: https://github.com/jcallaghan/The-Cookbook/issues/112
-thumbnail: béchamel-sauce.jpg
-labels:
-- Style - Pasta 🍝
-- Ingredient - Cheese 🧀
-- Style - Classic
-- Style - Sauce
----
+|Type|Origin|Issues|
+|----|------|------|
+|Main Course|Magazine|None|
+
+|Protein|Dairy|Vegetables|Fruit|Spices|Herbs|Sugars|
+|--|--|--|--|--|--|--|
+|Chicken|Cheese,Cheddar; Milk,2%|Mixed|None|None|Thyme,dried|None|
 
 # Easy Cheddar Chicken Potpie
 
