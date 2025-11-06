@@ -1,3 +1,16 @@
+---
+title: Béchamel sauce
+date: 2021-02-28T18:58:15
+issue_id: 112
+issue_link: https://github.com/jcallaghan/The-Cookbook/issues/112
+thumbnail: béchamel-sauce.jpg
+labels:
+- Style - Pasta 🍝
+- Ingredient - Cheese 🧀
+- Style - Classic
+- Style - Sauce
+---
+
 # Easy Cheddar Chicken Potpie
 
 - **Source**: *Taste of Home* magazine recipe card insert by Linda Drees
