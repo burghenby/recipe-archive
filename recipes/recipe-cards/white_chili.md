@@ -1,3 +1,11 @@
+|Type|Origin|Issues|
+|--|--|--|
+|Main Course|Magazine|None|
+
+|Protein|Dairy|Vegetables|Fruit|Spices|Herbs|Sugars|
+|--|--|--|--|--|--|--|
+|Chicken, Beans|Yogurt|Onion|None|Salt; Cloves|Green Onion|None|
+
 # White Chili
 
 - **Source**: *Cooking Light* recipe card

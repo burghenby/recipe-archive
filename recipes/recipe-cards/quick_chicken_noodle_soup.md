@@ -1,3 +1,11 @@
+|Type|Origin|Issues|
+|----|------|------|
+|Main Course|Magazine|None|
+
+|Protein|Dairy|Vegetables|Fruit|Spices|Herbs|Sugars|
+|--|--|--|--|--|--|--|
+|Chicken|None|Onion; Carrot; Celery|None|Salt; Black Pepper|Parsley, fresh|None|
+
 # Quick Chicken Noodle Soup
 
 - **Source**: *Cooking Light* recipe card

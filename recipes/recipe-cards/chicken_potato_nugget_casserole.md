@@ -1,3 +1,11 @@
+|Type|Origin|Issues|
+|----|------|------|
+|Main Course|Magazine|None|
+
+|Protein|Dairy|Vegetables|Fruit|Spices|Herbs|Sugars|
+|--|--|--|--|--|--|--|
+|Chicken|Cream of Chicken soup; Milk; Cheese, shredded|Mixed; Potato, nuggets|None|None|Onion, dried minced|None|
+
 # Chicken-Potato Nugget Casserole
 
 - **Source**: *Pillsbury* grocery story recipe card, early 2000's
