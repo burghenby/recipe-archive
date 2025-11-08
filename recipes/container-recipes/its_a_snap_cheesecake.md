@@ -6,9 +6,9 @@
 
 ## Ingredients
 
-- 1/2 cup sugar
+- 1/2 c. sugar
 - 1 envelope (0.25 oz. each) KNOX Unflavored Gelatine
-- 1 cup boiling water
+- 1 c. boiling water
 - 2 pkg. (8 oz. each) PHILADELPHIA Cream Cheese, softened
 - 1 tsp. vanilla
 - 1 ready-to-use graham cracker crum crust (6 oz.)

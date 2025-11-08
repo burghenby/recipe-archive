@@ -9,7 +9,7 @@
 ## Ingredients
 
 - 1 Reynolds Slow Cooker liner
-- 1/4 cup water
+- 1/4 c. water
 - 4 medium red potatoes, cut in quarters
 - 1 medium onion, cut in quarters
 - 1 pkg. (16 oz.) peeled baby carrots

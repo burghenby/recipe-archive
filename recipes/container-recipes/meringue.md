@@ -7,7 +7,7 @@
 
 - 3 egg whites
 - 1/4 tsp. cream of tartar
-- 1/4 cup sugar
+- 1/4 c. sugar
 
 ## Directions
 

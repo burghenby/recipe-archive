@@ -17,12 +17,12 @@
 ## Ingredients
 
 - 1 can (10-3/4 oz.) condensed cream of chicken soup
-- 1 cup milk
-- 1 tablespoon dried minced onion
-- 2 cups cut-up cooked chicken
-- 2 cups Green Giant Valley Fresh Steamers frozen mixed vegetables (from 12-oz bag), thawed
+- 1 c. milk
+- 1 Tbsp. dried minced onion
+- 2 c. cut-up cooked chicken
+- 2 c. Green Giant Valley Fresh Steamers frozen mixed vegetables (from 12-oz bag), thawed
 - 12 bag (32-0Z size) frozen potato nuggets
-- 12 cup shredded American-Cheddar cheese blend (2 oz)
+- 12 c. shredded American-Cheddar cheese blend (2 oz)
 
 ## Directions
 

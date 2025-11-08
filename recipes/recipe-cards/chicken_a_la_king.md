@@ -15,15 +15,15 @@
 ## Ingredients
 
 - 1 (16.3-oz.) can Pillsbury Grands! Refrigerated Buttermilk Biscuits
-- 1/4 cup margarine of butter
-- 1/4 cup coarsely chopped green bell pepper
-- 1/4 cup sliced celery
+- 1/4 c. margarine of butter
+- 1/4 c. coarsely chopped green bell pepper
+- 1/4 c. sliced celery
 - 3 Tbsp. all-purpose flour
 - 1/2 tsp. chicken-flavor instant bouillon
 - 1/8 tsp. dried thyme leaves
-- 1-1/2 cups milk
-- 1-1/2 cups cubed, cooked Tyson chicken
-- 1/2 cup Green Giant Frozen Sweet Peas, thawed
+- 1-1/2 c. milk
+- 1-1/2 c. cubed, cooked Tyson chicken
+- 1/2 c. Green Giant Frozen Sweet Peas, thawed
 - 1 (4-oz.) can Green Giant Mushroom Pieces and Stems, drained
 - 1 (2-oz.) jar pimentos, drained
 

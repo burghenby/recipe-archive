@@ -13,7 +13,7 @@
 - 2 small onions, chopped
 - 2 cans (15 oz. each) red kidney beans, undrained
 - 2 packages (1.25 oz.) chili seasoning mix
-- 2 cans (15 0z.) tomato sauce
+- 2 cans (15 oz.) tomato sauce
 - 2 can (10 oz.) diced tomatoes and green chiles
 - Cheese and sour cream (optional)
 - 1 Reynolds Kitchens Slow Cooker Liner

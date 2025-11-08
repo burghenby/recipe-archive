@@ -7,7 +7,7 @@
 
 - Water
 - Vinegar
-- 1/2 cup Old Bay seasoning
+- 1/2 c. Old Bay seasoning
 - 1 dozen crabs
 
 ## Directions

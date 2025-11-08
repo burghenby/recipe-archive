@@ -14,16 +14,16 @@
 
 ## Ingredients
 
-- 2 cups water
-- 1 (32-ounce) carton fat-free, lower-sodium chicken broth
+- 2 c. water
+- 1 (32-oz.) carton fat-free, lower-sodium chicken broth
 - 1 Tbsp. olive oil
-- 1/2 cup prechopped onion
-- 1/2 cup prechopped celery
+- 1/2 c. prechopped onion
+- 1/2 c. prechopped celery
 - 1/2 tsp. salt
 - 1/2 tsp. freshly ground black pepper
 - 1 medium carrot, chopped
-- 6 ounces fusilli (short twisted spaghetti)
-- 2-1/2 cups shredded skinless, boneless rotisserie chicken breast
+- 6 oz. fusilli (short twisted spaghetti)
+- 2-1/2 c. shredded skinless, boneless rotisserie chicken breast
 - 2 Tbsp. chopped fresh flat-leaf parsley
 
 ## Directions

@@ -18,12 +18,12 @@
 
 - 1 pkg. (16 oz.) frozen vegetables for stew, thawed and coarsely chopped
 - 1 jar (12 oz.) chicken gravy
-- 2 cups (8 oz.) shredded cheddar cheese
-- 2 cups cubed cooked chicken
-- 1 cup biscuit/baking mix
+- 2 c. (8 oz.) shredded cheddar cheese
+- 2 c. cubed cooked chicken
+- 1 c. biscuit/baking mix
 - 1/4 tsp. dried thyme
 - 2 eggs
-- 1/4 cup 2% milk
+- 1/4 c. 2% milk
 
 ## Directions
 

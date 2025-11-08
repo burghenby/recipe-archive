@@ -18,10 +18,10 @@
 
 - 2 lb. boneless, skinless chicken cutlets (8 to 10 pieces), pounded about inch thick, if needed
 - Coarse salt and freshly ground pepper
-- 1-1/2 cups buttermilk
-- 1/2 teaspoon hot sauce, such as Tabasco
-- 2 cups plain dried breadcrumbs (about 8 ounces)
-- 1/3 cup finely chopped fresh sage, plus fried leaves* for garnish
+- 1-1/2 c. buttermilk
+- 1/2 tsp. hot sauce, such as Tabasco
+- 2 c. plain dried breadcrumbs (about 8 ounces)
+- 1/3 c. finely chopped fresh sage, plus fried leaves* for garnish
 - Vegetable oil, for frying
 
 1. Preheat oven to 200°F, Season chicken with salt and pepper. Stir buttermilk, hot sauce, 1-1/2 teaspoons salt, and 1/4 teaspoon pepper in a medium bowl. Add chicken; turn to coat well. Let marinate for about 15 minutes. Stir breadcrumbs and sage in another bowl: set aside.

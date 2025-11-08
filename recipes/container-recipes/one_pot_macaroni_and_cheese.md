@@ -5,12 +5,12 @@
 
 ## Ingredients
 
-- 2 cups vegetable broth (16 oz.)
-- 1 cup milk
+- 2 c. vegetable broth (16 oz.)
+- 1 c. milk
 - 1 Tbsp. butter
 - 1/2 tsp. salt, if desired
-- 1/2 (16-oz.) pkg. Good and Gather elbow macaroni (about 2 cups)
-- 1 (8-oz.) pkg. shredded Cheddar cheese (2 cups)
+- 1/2 (16-oz.) pkg. Good and Gather elbow macaroni (about 2 c.)
+- 1 (8-oz.) pkg. shredded Cheddar cheese (2 c.)
 
 ## Directions
 

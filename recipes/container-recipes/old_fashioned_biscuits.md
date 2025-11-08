@@ -5,11 +5,11 @@
 
 ## Ingredients
 
-- 2 cups all-purpose flour
+- 2 c. all-purpose flour
 - 2 1/2 tsp Clabber Girl baking powder
 - 1/2 tsp salt
-- 1/3 cup shortening
-- 3/4 cup milk
+- 1/3 c. shortening
+- 3/4 c. milk
 - 1 Tbsp soft butter
 
 ## Directions

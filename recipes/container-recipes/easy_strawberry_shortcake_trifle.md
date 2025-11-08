@@ -9,10 +9,10 @@
 ## Ingredients
 
 - 1 pkg. (3.4 oz) JELL-O Vanilla Flavor Instant Pudding
-- 1-1/2 cups cold milk
-- 2 cups thawed COOL WHIP Whipped Topping, divided
-- 1 prepared angel food cake (10 inch), cut into 2-inch pieces
-- 3 cups sliced fresh strawberries
+- 1-1/2 c. cold milk
+- 2 c. thawed COOL WHIP Whipped Topping, divided
+- 1 prepared angel food cake (10-in.), cut into 2-in. pieces
+- 3 c. sliced fresh strawberries
 
 ## Directions
 

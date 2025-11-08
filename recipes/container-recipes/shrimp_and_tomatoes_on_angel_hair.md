@@ -9,9 +9,9 @@
 - 2 Tbsp. olive oil
 - 1 (16-oz.) pkg. frozen large raw shrimp, thawed
 - 1 small onion, finely chopped
-- 1/2 cup white wine, if desired
+- 1/2 c. white wine, if desired
 - 1 (15-oz.) can diced tomatoes, undrained
-- 1/2 cup Kalamata olives
+- 1/2 c. Kalamata olives
 - 2 Tbsp. capers
 - 1/4 tsp. crushed red pepper
 

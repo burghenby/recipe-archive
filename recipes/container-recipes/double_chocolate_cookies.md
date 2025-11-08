@@ -8,14 +8,14 @@
 
 ## Ingredients
 
-- 1 1/4 cups sugar
-- 1 cup butter, softened
+- 1 1/4 c. sugar
+- 1 c. butter, softened
 - 1 egg
-- 1 teaspoon vanilla
-- 2 cups all-purpose flour
-- 1/3 cup unsweetened cocoa powder
-- 1 teaspoon baking soda
--  1 (12-ounce) package semisweet chocolate chips
+- 1 tsp. vanilla
+- 2 c. all-purpose flour
+- 1/3 c. unsweetened cocoa powder
+- 1 tsp. baking soda
+-  1 (12-oz.) package semisweet chocolate chips
 
 ## Directions
 

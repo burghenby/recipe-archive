@@ -8,9 +8,9 @@
 
 ## Ingredients
 
-- 3/4 cup milk
-- 1/2 cup thawed COOL WHIP Whipped Topping
-- 1 cup frozen unsweetened mixed berries (blackberries, blueberries, raspberries, strawberries)
+- 3/4 c. milk
+- 1/2 c. thawed COOL WHIP Whipped Topping
+- 1 c. frozen unsweetened mixed berries (blackberries, blueberries, raspberries, strawberries)
 
 ## Directions
 

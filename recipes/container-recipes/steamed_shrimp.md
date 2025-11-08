@@ -6,8 +6,8 @@
 ## Ingredients
 
 - 2 Tbsp. Old Bay seasoning
-- 1/2 cup vinegar
-- 1/2 cup water
+- 1/2 c. vinegar
+- 1/2 c. water
 - 1 lb. shrimp, in shells
 
 ## Directions

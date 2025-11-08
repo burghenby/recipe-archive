@@ -5,13 +5,13 @@
 
 ## Ingredients
 
-- 1/4 cup reduced sodium soy sauce
+- 1/4 c. reduced sodium soy sauce
 - 1/2 tsp. ground ginger (optional)
 - 1 lb. pork tederloin, cut into very thin strips
 - 1 Tbsp. olive oil
 - 1 small sweet onion, finely chopped
-- 1 3/4 cups water
-- 1 package Knorr Asian Sides Teriyaki Rice
+- 1 3/4 c. water
+- 1 pkg. Knorr Asian Sides Teriyaki Rice
 - 2 eggs, slightly beaten
 - 2 green onions, sliced
 - 1 medium red or green bell pepper, cut into thin strips

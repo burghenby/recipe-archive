@@ -11,8 +11,8 @@
 - 1 Reynolds Slow Cooker liner
 - 6 large Granny Smith apples, peeled, cored and cut in 8 wedges
 - 1 Tbsp. fresh lemon juice
-- 1/2 cup granulated sugar
-- 1/2 cup packed light brown sugar
+- 1/2 c. granulated sugar
+- 1/2 c. packed light brown sugar
 - 2 Tbsp. flour
 - 1 tsp. ground cinnamon
 - 1/4 tsp. ground nutmeg

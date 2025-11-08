@@ -14,17 +14,17 @@
 
 ## Ingredients
 
-- 2 teaspoons canola oil
-- 1-1/2 cups chopped onion (about 1 large)
+- 2 tsp. canola oil
+- 1-1/2 c. chopped onion (about 1 large)
 - 3 garlic cloves, minced
-- 2 cups fat-free, lower-sodium chicken broth
-- 5 teaspoons green hot pepper sauce
-- 1/2 teaspoon kosher salt
-- 1/4 pounds skinless, boneless chicken breast halves
-- 2 tablespoons stone-ground cornmeal
+- 2 c. fat-free, lower-sodium chicken broth
+- 5 tsp. green hot pepper sauce
+- 1/2 tsp. kosher salt
+- 1/4 lb. skinless, boneless chicken breast halves
+- 2 tsp. stone-ground cornmeal
 - 1 (19-ounce) can cannellini beans or other white beans, rinsed and drained
-- 1/2 cup plain fat-free yogurt
-- 2 tablespoons thinly sliced green onions (about 1)
+- 1/2 c. plain fat-free yogurt
+- 2 Tbsp. thinly sliced green onions (about 1)
 - Lime wedges (optional)
 
 ## Directions

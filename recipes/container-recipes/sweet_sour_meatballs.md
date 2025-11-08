@@ -10,7 +10,7 @@
 
 - 1 Reynolds Slow Cooker liner
 - 1 jar (9-10 oz.) sweet and sour sauce
-- 1/4 cup packed brown sugar
+- 1/4 c. packed brown sugar
 - 3 Tbsp. soy sauce
 - 1/2 tsp. garlic powder
 - 1/2 tsp. pepper

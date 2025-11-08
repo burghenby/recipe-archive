@@ -6,16 +6,16 @@
 
 ## Ingredients
 
-- 2-1/4 cups all-purpose flour
-- 2/3 cup NESTLE TOLL HOUSE Baking Cocoa
+- 2-1/4 c. all-purpose flour
+- 2/3 c. NESTLE TOLL HOUSE Baking Cocoa
 - 1 tsp. baking soda
 - 1/4 tsp. salt
-- 1 cup (2 sticks) butter or margarine, softened
-- 3/4 cup granulated sugar
-- 2/3 cup packed brown sugar
+- 1 c. (2 sticks) butter or margarine, softened
+- 3/4 c. granulated sugar
+- 2/3 c. packed brown sugar
 - 1 tsp. vanilla extract
 - 2 large eggs
-- 2 cups (12-oz.) NESTLE TOLL HOUSE Premier White Morsels
+- 2 c. (12-oz.) NESTLE TOLL HOUSE Premier White Morsels
 
 ## Directions
 

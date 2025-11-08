@@ -8,10 +8,10 @@
 
 ## Ingredients
 
-- 1/2 cup (1 stick) butter, softened
-- 4 cups Good & Gather Powdered Sugar
+- 1/2 c. (1 stick) butter, softened
+- 4 c. Good & Gather Powdered Sugar
 - 1 tsp. vanilla
-- 1/4 cup milk
+- 1/4 c. milk
 
 ## Directions
 

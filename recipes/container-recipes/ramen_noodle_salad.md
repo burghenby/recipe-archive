@@ -7,7 +7,7 @@
 
 - 2 tsp. gluten-free Tamari
 - 1 tsp. Sesame Oil
-- 1/4 cup chopped scallions
+- 1/4 c. chopped scallions
 - Desired amount of ramen
 
 ## Directions

@@ -9,13 +9,13 @@
 ## Ingredients
 
 - 1 Reynolds Slow Cooker liner
-- 3 cups vegetable juice
-- 2 cups hot water
-- 1 lb beef for stew, cut in 1-inch cubes
-- 8 cups frozen mixed vegetables
+- 3 c. vegetable juice
+- 2 c. hot water
+- 1 lb. beef for stew, cut in 1-inch cubes
+- 8 c. frozen mixed vegetables
 - 2 medium potatoes, peels and cubed
 - 1 small onion, chopped
-- 1/4 cup ketchup
+- 1/4 c. ketchup
 - 3 Tbsp. beef-flavor instant bouillon
 - 1/2 tsp. pepper
 

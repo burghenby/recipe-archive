@@ -10,8 +10,8 @@
 
 - 2 Tbsp. Argo Corn Starch
 - 2 Tbsp. fat drippings
-- 2 cups broth OR water
-- 1/4 cup cold water
+- 2 c. broth OR water
+- 1/4 c. cold water
 - Salt & Pepper to taste
 
 ## Directions

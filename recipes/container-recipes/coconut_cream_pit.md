@@ -4,15 +4,15 @@
 ---
 ## Ingredients
 
-- 3/4 cup sugar
-- 1/2 cup flour
+- 3/4 c. sugar
+- 1/2 c. flour
 - 1/4 tsp. salt
-- 2 cups milk
+- 2 c. milk
 - 3 egg yolks, beaten
 - 2 Tbsp. butter
 - 1 tsp. vanilla extract
-- 1 cup Giant Eagle sweetened coconut flakes
-- 8-inch pie shell, baked
+- 1 c. Giant Eagle sweetened coconut flakes
+- 8-in. pie shell, baked
 
 ## Directions
 

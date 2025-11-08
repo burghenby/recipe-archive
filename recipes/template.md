@@ -1,3 +1,11 @@
+|Type|Origin|Issues|
+|----|------|------|
+|Type|Source|None|
+
+|Protein|Dairy|Vegetables|Fruit|Spices|Herbs|Sugars|
+|--|--|--|--|--|--|--|
+|Protein|Dairy|Veggies|Fruit|Spice|Herb|Sweets|
+
 # Recipe Name
 
 - **Source**: *Brand w/Line (if applicable)* flavor (if applicable)  form (packet, tin, bag, etc)

@@ -9,16 +9,16 @@
 ## Ingredients
 
 - 1 Reynolds Slow Cooker Liner 
-- 6 cups cubed cooked chicken or turkey 
+- 6 c. cubed cooked chicken or turkey 
 - 2 cans (15-1/2 oz.) navy beans, drained 
-- 1 cup chicken broth 
+- 1 c. chicken broth 
 - 1 large onion, chopped 
 - 1 large red bell pepper, finely chopped
 - 1 jalapeno pepper, seeded and finely chopped
 - 2 cloves garlic, minced
-- 2 teaspoons ground cumin
-- 1 teaspoon dried oregano leaves
-- 1/2 teaspoon each salt and cayenne pepper
+- 2 tsp. ground cumin
+- 1 tsp. dried oregano leaves
+- 1/2 tsp. each salt and cayenne pepper
 
 ## Directions
 

@@ -17,12 +17,12 @@
 ## Ingredients
 
 - 1 Tbsp. butter
-- 2 cups sliced fresh mushrooms
+- 2 c. sliced fresh mushrooms
 - 1 medium onion, chopped (1/2 cup)
 - 1 jar (16 oz.) Alfredo pasta sauce
-- 1 cup milk
-- 2 cups chopped cooked chicken
-- 2 cups Green Giant Valley Fresh Steamers Selecte frozen broccoli florets (from 12-oz. bag), thawed
+- 1 c. milk
+- 2 c. chopped cooked chicken
+- 2 c. Green Giant Valley Fresh Steamers Selecte frozen broccoli florets (from 12-oz. bag), thawed
 - 1 tsp. dried basil leaves
 - 1 can Pillsbury refrigerated buttermilk biscuits
 - 1 Tbsp. butter, melted

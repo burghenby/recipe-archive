@@ -7,15 +7,15 @@
 
 ## Ingredients
 
-- 1 lb. beef stew meat cut into 1-inch pieces
+- 1 lb. beef stew meat cut into 1-in. pieces
 - 2 Tbsp. all-purpose flour
 - 1 Tbsp. canola oil
-- 1 can (15 ounces) black beans, rinsed and drained
+- 1 can (15 oz.) black beans, rinsed and drained
 - 2 medium carrots, peeled and chopped
-- 1 small onion, chopped (about 1 cup)
+- 1 small onion, chopped (about 1 c.)
 - 2 cloves garlic, minced
-- 1 can (14.5 ounces) diced tomatoes, undrained
-- 2 cups reduced-sodium beef broth
+- 1 can (14.5 oz.) diced tomatoes, undrained
+- 2 c. reduced-sodium beef broth
 - 2 tsp. chili powder
 - 1 tsp. ground cumin
 - 1/2 tsp. salt

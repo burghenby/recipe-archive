@@ -5,7 +5,7 @@
 
 ## Ingredients
 
-- 1/4 cup oil
+- 1/4 c. oil
 - 2 Tbsp. lemon juice
 - 1 Tbsp. Old Bay seasoning
 - 1 tsp. parsley flakes

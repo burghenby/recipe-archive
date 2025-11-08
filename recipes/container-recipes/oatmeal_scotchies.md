@@ -6,17 +6,17 @@
 
 ## Ingredients
 
-- 1-1/4 cups all-purpose flour
+- 1-1/4 c. all-purpose flour
 - 1 tsp. baking soda
 - 1/2 tsp. salt
 - 1/2 tsp. ground cinnamon
-- 1 cup (2 sticks) butter, softened
-- 3/4 cup granulated sugar
-- 3/4 cup packed brown sugar
+- 1 c. (2 sticks) butter, softened
+- 3/4 c. granulated sugar
+- 3/4 c. packed brown sugar
 - 2 large eggs
 - 1 tsp. vanilla extract or grated peel of 1 orange
-- 3 cups quick or old-fashioned oats
-- 1-2/3 cups (11-oz. pkg.) NESTLE TOLL HOUSE Butterscotch Flavored Morsels
+- 3 c. quick or old-fashioned oats
+- 1-2/3 c. (11-oz. pkg.) NESTLE TOLL HOUSE Butterscotch Flavored Morsels
 
 ## Directions
 
