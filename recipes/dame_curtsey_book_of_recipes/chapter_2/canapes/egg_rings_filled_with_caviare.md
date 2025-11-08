@@ -1,6 +1,6 @@
 |Type|Origin|Issues|
 |----|------|------|
-|Appetizer|"Dame Curtsey's" Book of Recipes|None|
+|Appetizer|"Dame Curtsey's" Book of Recipes|[#29](https://github.com/burghenby/recipe-archive/issues/29)|
 
 |Protein|Dairy|Vegetables|Fruit|Spices|Herbs|Sugars|
 |--|--|--|--|--|--|--|
@@ -17,7 +17,7 @@
 ## Ingredients
 
 - Brown bread
-- Mayonnaise
+- Mayonnaise - See issue [#29](https://github.com/burghenby/recipe-archive/issues/29)
 - Hardboiled eggs
 - Caviare
 - Salt

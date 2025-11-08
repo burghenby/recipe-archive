@@ -1,6 +1,6 @@
 |Type|Origin|Issues|
 |----|------|------|
-|Appetizer|"Dame Curtsey's" Book of Recipes|None|
+|Appetizer|"Dame Curtsey's" Book of Recipes|[#32](https://github.com/burghenby/recipe-archive/issues/32)|
 
 |Protein|Dairy|Vegetables|Fruit|Spices|Herbs|Sugars|
 |--|--|--|--|--|--|--|
@@ -23,7 +23,7 @@
 - Bread, toasted
 - Eggs, hardboiled and divided
 - Pickles, minced
-- Olives
+- Olives - See issue [#32](https://github.com/burghenby/recipe-archive/issues/32)
 - Green peppers
 
 ## Directions - Updated

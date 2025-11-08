@@ -1,6 +1,6 @@
 |Type|Origin|Issues|
 |----|------|------|
-|Appetized|"Dame Curtsey's" Book of Recipes|None|
+|Appetized|"Dame Curtsey's" Book of Recipes|[#29](https://github.com/burghenby/recipe-archive/issues/29)|
 
 |Protein|Dairy|Vegetables|Fruit|Spices|Herbs|Sugars|
 |--|--|--|--|--|--|--|
@@ -21,7 +21,7 @@
 - 1 T pickles, chopped
 - 2 T Horseradish
 - 3 T Celery, chopped
-- 1/3 c Mayonnaise dressing
+- 1/3 c Mayonnaise dressing - See issue [#29](https://github.com/burghenby/recipe-archive/issues/29)
 - 2 T Worcestershire sauce
 - Pickled beets, cut into shapes
 

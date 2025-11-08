@@ -14,6 +14,7 @@ Title; Publication Year; Author(s); Publisher; Book size
 
 *Beaver Mills Cook Book; 1908; The T.H. Taylor Co. Limited
 *The Best Ice Cream; approx. 1900; Borden Condensed Milk Co.
+*The Boston Baking-School Cook Book; 1918; Fannie Merritt Farmer; Little, Brown, and Company, Boston;
 *The Bride's Cook Book; 1917; The California Bride's Publishing Company, San Francisco, CA
 
 *Cleveland's Superior Receipts; 1895; Cleveland Baking Powder Company; 4.25" x 6.75"
@@ -65,3 +66,10 @@ Title; Publication Year; Author(s); Publisher; Book size
 *[Recipes of ]Wesson Snowdrift Oil; approx. 1911; Wesson Snowdrift Oil
 *Wheatless Recipes; 1918; Royal Baking Powder Co. 
 *The W.R.C. Cook Book; 1912; Cushing Relief Corps No. 3; Western Women's Co-Operative Publishing Company
+
+## References
+
+[The Vintage Cook](https://thevintagecook.com/homemade-mayonnaise/)
+[Eating History](https://eating-history.co.uk/recipes/indian-meal-porridge)
+[12 Tomatoes](https://12tomatoes.com/old-recipe-terms-explained/ )
+[Eating the Eras](https://www.eatingtheeras.com/post/measure-out-a-guide-to-understanding-old-recipe-measurements)

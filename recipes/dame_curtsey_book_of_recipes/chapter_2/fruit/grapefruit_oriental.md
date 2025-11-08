@@ -1,6 +1,6 @@
 |Type|Origin|Issues|
 |----|------|------|
-|Appetizer|"Dame Curtsey's" Book of Recipes|#41|
+|Appetizer|"Dame Curtsey's" Book of Recipes|[#41](https://github.com/burghenby/recipe-archive/issues/41)|
 
 |Protein|Dairy|Vegetables|Fruit|Spices|Herbs|Sugars|
 |--|--|--|--|--|--|--|
