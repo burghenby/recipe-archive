@@ -17,6 +17,8 @@ Title; Publication Year; Author(s); Publisher; Book size
 *The Boston Baking-School Cook Book; 1918; Fannie Merritt Farmer; Little, Brown, and Company, Boston;
 *The Bride's Cook Book; 1917; The California Bride's Publishing Company, San Francisco, CA
 
+*The Candy Book; post-1904; The W.C.T.U. (Women's Christian Temperance Union) of Florida
+*The Candy Cook Book; 1918; Alice Bradley; Little, Brown, and Company; Boston
 *Cleveland's Superior Receipts; 1895; Cleveland Baking Powder Company; 4.25" x 6.75"
 
 *Dainty Luncheons. How to Prepare Them; 1900; Woolverton Printing & Publishing Co.
@@ -24,6 +26,7 @@ Title; Publication Year; Author(s); Publisher; Book size
 *"Dame Curtsey's" Book of Recipes; 1909; Ellye Howell Glover; A. C. McClurg & Co., Chicago
 *The Dessert Book; 1900; Woolverton Printing & Publishing Co.,. Osage, Iowa
 *Distinctive Tillamook Full Cream Cheese Recipes; 1918; Tillamook County Creamery Association
+*Dr. Mile's Candy Book; 1900's; Dr. Miles Medical Co., Elkhart, Ind.
 
 *The Enterprising Housewife; 1902; Helen Louise Johnson; The Enterprising Manufacturing Co., Philadelphia, PA
 *Excellent Recipes For Baking Raised Breads; 1916; The Fleischmann Company; 4-3/4" wide by 6-3/4" tall
@@ -34,6 +37,7 @@ Title; Publication Year; Author(s); Publisher; Book size
 *The Froid Cook Book; 1924; Congregational Ladies' Aid Society; Congregational Ladies' Aid Society,Froid, Montana; 5-1/4" wide by 7-1/2" tall
 
 *Happy "Bakeday" to You; 19??; Anna Lee Scott; Monarch Flour
+*How to Make Candy Delicacies and Tasty Appetizing Puddings; between 1858(founding) and 1906(merging); The Edwardsburg Starch Company, Limited; Montreal, P. Que. and Toranto, Ont.
 
 *Gold Medal Flour Cook Book; 1910; Washburn-Crosby Co.; Washburn-Crosby Co., Minneapolis, MN
 *Grace Episcopal Church Guild Cook Book; 1907; Ora Christina Brown Baker; J.S. Dellinger Co.; 4.25" x 9.25" 
