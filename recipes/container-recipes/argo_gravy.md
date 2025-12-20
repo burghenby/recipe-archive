@@ -1,3 +1,11 @@
+|Type|Origin|Issues|
+|----|------|------|
+|Condiment|Container|None|
+
+|Protein|Dairy|Vegetables|Fruit|Spices|Herbs|Sugars|
+|--|--|--|--|--|--|--|
+|Broth|N/A|N/A|N/A|Pepper, Salt|N/A|N/A|
+
 # Argo Gravy
 
 - **Source**: *Argo* Cornstarch container

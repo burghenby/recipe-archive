@@ -1,3 +1,11 @@
+|Type|Origin|Issues|
+|----|------|------|
+|Main Course|Container|None|
+
+|Protein|Dairy|Vegetables|Fruit|Spices|Herbs|Sugars|
+|--|--|--|--|--|--|--|
+|Beef|N/A|Mixed Vegetables, Potatoe, Onion, Pepper|N/A|, Bouillon, Ketchup|N/A|Ketchup, Vegetable Juice|
+
 # Chunky Beef Vegetable Soup
 
 - **Source**: *Reynolds* Slow Cooker Liners insert

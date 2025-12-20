@@ -1,10 +1,15 @@
+|Type|Origin|Issues|
+|----|------|------|
+|Dessert|Container|None|
+
+|Protein|Dairy|Vegetables|Fruit|Spices|Herbs|Sugars|
+|--|--|--|--|--|--|--|
+|Eggs|Butter|N/A|N/A|Vanilla|N/A|Sugar, Chocolate Chips|
+
 # Double Chocolate Cookies
 
 - **Source**: *Crystal* Granulated Sugar bag
 ---
-**Prep Time**: (Omit if not provided by recipe)
-**Total Time**: (Omit if not provided by recipe)
-**Makes**: (Omit if not provided by recipe)
 
 ## Ingredients
 

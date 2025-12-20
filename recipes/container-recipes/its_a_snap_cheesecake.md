@@ -1,4 +1,4 @@
-# Fruit Juice KNOX Blox
+# It's-a-Snap Cheesecake
 
 - **Source**: *Knox* Unflavored Gelatine box
 ---
@@ -11,7 +11,7 @@
 - 1 c. boiling water
 - 2 pkg. (8 oz. each) PHILADELPHIA Cream Cheese, softened
 - 1 tsp. vanilla
-- 1 ready-to-use graham cracker crum crust (6 oz.)
+- 1 ready-to-use graham cracker crumb crust (6 oz.)
 
 ## Directions
 

@@ -1,3 +1,11 @@
+|Type|Origin|Issues|
+|----|------|------|
+|Dessert|Container|None|
+
+|Protein|Dairy|Vegetables|Fruit|Spices|Herbs|Sugars|
+|--|--|--|--|--|--|--|
+|N/A|Milk, Cool Whip|N/A|Strawberries|N/A|N/A|Cool Whip, Instant Pudding, Cake|
+
 # Easy Strawberry Shortcake Trifle
 
 - **Source**: *Cool Whip* Original tub

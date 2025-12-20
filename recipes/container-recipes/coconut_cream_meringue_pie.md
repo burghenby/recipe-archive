@@ -1,4 +1,4 @@
-# Meringue
+# Coconut Cream Meringue Pie
 
 - **Source**: *Giant Eagle* sweetened coconut flakes bag
 ---

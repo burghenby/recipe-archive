@@ -1,3 +1,11 @@
+|Type|Origin|Issues|
+|----|------|------|
+|Beverage|Container|None|
+
+|Protein|Dairy|Vegetables|Fruit|Spices|Herbs|Sugars|
+|--|--|--|--|--|--|--|
+|N/A|Milk, Cool Whip|N/A|Mixed Berries|N/A|N/A|Cool Whip, Berries|
+
 # Cool & Creamy Mixed Berry Smoothie
 
 - **Source**: *Cool Whip* Original tub

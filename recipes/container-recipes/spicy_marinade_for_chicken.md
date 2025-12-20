@@ -13,4 +13,4 @@
 
 ## Directions
 
-Combine incredients in glass dish or plastic self-closing bag. Add one pound boneless chicken breasts. Refrigerate 20-30 minutes. Broil or grill.
+Combine ingredients in glass dish or plastic self-closing bag. Add one pound boneless chicken breasts. Refrigerate 20-30 minutes. Broil or grill.

@@ -1,3 +1,11 @@
+|Type|Origin|Issues|
+|----|------|------|
+|Main Course|Container|None|
+
+|Protein|Dairy|Vegetables|Fruit|Spices|Herbs|Sugars|
+|--|--|--|--|--|--|--|
+|Chicken, Sausage|N/A|Peppers, Tomatoes, Onions, Squash|N/A|Creole or Cajun, Salt|Parsley|N/A|
+
 # Chicken and Sausage Jambalaya
 
 - **Source**: *Reynolds Kitchens* Slow Cooker Liners insert (pre-2019)

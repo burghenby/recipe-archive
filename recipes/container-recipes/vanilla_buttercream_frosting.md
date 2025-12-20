@@ -1,3 +1,11 @@
+|Type|Origin|Issues|
+|----|------|------|
+|Frosting|Container|None|
+
+|Protein|Dairy|Vegetables|Fruit|Spices|Herbs|Sugars|
+|--|--|--|--|--|--|--|
+|N/A|Butter, Milk|N/A|N/A|Vanilla|N/A|Powdered Sugar|
+
 # Vanilla Buttercream Frosting
 
 - **Source**: *Target's Good & Gather* Powdered Sugar bag
