@@ -8,7 +8,7 @@
 
 # Recipe Name
 
-**Source**: *Brand w/Line (if applicable)* flavor (if applicable)  form (packet, tin, bag, etc)
+**Source**: 
 ---
 **Prep Time**: (Omit if not provided by recipe)
 **Total Time**: (Omit if not provided by recipe)

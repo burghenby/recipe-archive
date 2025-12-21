@@ -1,44 +1,50 @@
-## Time and Temperature Conversion
----
-# Glass Dishes
+# Time and Temperature Conversion
+
+## Glass Dishes
 
 Reduce baking temperature by 25 degrees and check for doneness at least 5 minutes earlier.
 
-# Deeper Dishes
+## Deeper Dishes
 
 Decrease baking temperature slightly (about 25 degrees) and increase baking time by 1/4.
 
-# Shallower Dishes
+## Shallower Dishes
 
 Increase baking time slightly (about 25 degrees) and degrees baking time by 1/4.
 
-# Oven Temperatures
+## Oven Temperatures
 
-**Fahrenheit**		**Celsius**		**Gas Mark**
+|  **Fahrenheit**  |  **Celsius**  |  **Gas Mark**  |
+|:----------------:|:-------------:|:--------------:|
+|       225        |      107      |      1/4       |
+|       250        |      120      |      1/2       |
+|       275        |      140      |       1        |
+|       300        |      150      |       2        |
+|       325        |      160      |       3        |
+|       350        |      180      |       4        |
+|       375        |      190      |       5        |
+|       400        |      200      |       6        |
+|       425        |      220      |       7        |
+|       450        |      230      |       8        |
+|       475        |      240      |       9        |
+|       500        |      260      |       10       |
+|       525        |      274      |       11       |
+|       550        |      288      |       12       |
 
--	225					107				1/4
--	250					120				1/2
--	275					140				1
--	300					150				2
--	325					160				3
--	350					180				4
--	375					190				5
--	400				200				6
--	425					220				7
--	450					230				8
--	475					240				9
--	500					260				10
--	525					274				11
--	550					288				12
-
-# For Convection Oven
+## For Convection Oven
 
 Generally -25 F
 
 Example: 375F conventional oven = 350F convection oven
 
-# For Recipes without Oven Temperatures
-Check your cook book's appendicies/reference sections for any thing specific to oven temperatures. Depending on the age and edition of the book, it may have its own reference to draw from that differs from other sources. A example of this is to compare the Purity Flour Cookbook between editions. The 1917 edition has no references to temperatures due to its age. The 1932 edition, as something a bit more modern, lists a temperature chart beneath its table of equivalent measures. However, the 1975 edition is absent this as more-or-less of a 1:1 reprint of the 1917 edition.
+## For Recipes without Oven Temperatures
+Check your cook book's appendices/reference sections for anything specific to oven temperatures.\
+Depending on the age and edition of the book, it may have its own reference to draw from that differs from other sources.\
+\
+An example of this is to compare the Purity Flour Cookbook between editions.\
+The 1917 edition has no references to temperatures due to its age.\
+The 1932 edition, as something a bit more modern, lists a temperature chart beneath its table of equivalent measures.\
+However, the 1975 edition is absent this as more-or-less of a 1:1 reprint of the 1917 edition.
 
 -	Very slow						=	225 - 250 (Purity Flour Cookbook, 1932)
 -	Very slow oven					=	below 300 (eatingtheeras.com)
