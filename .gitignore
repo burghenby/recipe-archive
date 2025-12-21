@@ -1,10 +1,13 @@
 # temp files
 *~$*
 *~*
-*backup*
+*backup*'
+*.idea*
 
 # WIP
 WIP
 *.xcf
 *.jpg
 *.zip
+*.iml
+*.xml

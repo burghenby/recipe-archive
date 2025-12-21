@@ -20,7 +20,7 @@
 
 ## Directions
 
-OPEN Reynolds Sow Cooker Liner; place inside a 5 to 6.6 quart slow cooker bowl. Fit liner snugly against bottom and sides of bowl; pull to of liner over rim of bowl.
+OPEN Reynolds Slow Cooker Liner; place inside a 5 to 6.6 quart slow cooker bowl. Fit liner snugly against bottom and sides of bowl; pull to of liner over rim of bowl.
 PLACE all ingredients in the lined-slow cooker; stir gently. Place lid on slow cooker.
 COOK on LOW for 7 to 8 hours OR on HIGH for 4 to 5 hours, until done.
 CAREFULLY remove lid to allow steam to escape. Serve food directly from lined-slow cooker. Do not lift or transport liner with food inside. Cool slow cooker completely; remove liner and toss.
