@@ -7,11 +7,11 @@
 - 1 tsp. **baking soda**				.	.	.	.	3 tsp. **baking powder**
 - 1 cup **unsalted butter**			.	.	.	.	7/8 cup **vegetable oil**
 - 1 cup **unsalted butter**			.	.	.	.	1 cup **shortening**
- 									(For more butter/oil alternatives, see specific page on Oil/Butter substitutes)
+ 									(For more butter/oil alternatives, see [Oil/Butter substitutes](https://github.com/burghenby/recipe-archive/blob/641b19045875abbb4884ad893c39f0354d42d040/recipes/my-cookbook/substitutions/oil_butter.md))
 - 1/2 tsp. **cream of tartar**			.	.	.	.	1 tsp. **vinegar** or **lemon juice**
 - 1 cup **light corn syrup**			.	.	.	.	1-1/4 cup **granulated sugar** + 1/3 cup **water** heated to syrupy consistency
 - 1 cup **buttermilk**				.	.	.	.	1 Tbsp. **lemon juice** or **vinegar** + 15 Tbsp. **milk** (1 cup = 16 Tbsp.)
-- 1 **egg**							.	.	.	.	(See specific page on Egg substitutes)
+- 1 **egg**							.	.	.	.	(See [Egg substitutes](https://github.com/burghenby/recipe-archive/blob/641b19045875abbb4884ad893c39f0354d42d040/recipes/my-cookbook/substitutions/egg.md))
 - 1 cup **shortening** (solid)			.	.	.	.	1-1/8 cup **butter or margarine** (is 1:1 per Crisco)
 - 1 cup **tomato juice**				.	.	.	.	1/2 cup **tomato sauce** + 1/2 cup **water**
 - 1 Tbsp. **tomato paste**			.	.	.	.	1/2 cup **tomato sauce** - 1/4 cup **liquid** in recipe
