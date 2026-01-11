@@ -20,6 +20,7 @@
 - 2 c. sugar
 - 3 eggs + 1 egg white
 - 1 lemon
+- Chopped nuts
 
 ## Directions - Updated
 

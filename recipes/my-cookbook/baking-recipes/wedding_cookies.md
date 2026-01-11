@@ -6,7 +6,7 @@
 |:-------:|:------:|:----------:|:-----:|:-------------:|:-----:|:--------------:|
 |   N/A   | Butter |    N/A     |  N/A  | Salt, Vanilla |  N/A  | Powdered Sugar |
 
-# Recipe Name
+# Wedding Cookies
 
 **Source**: Possibly from an ex, or at least was sourced so that I could bake for an ex though from what source I can't recall. Between 2017 and 2020.
 ---

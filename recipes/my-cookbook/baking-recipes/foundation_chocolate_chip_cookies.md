@@ -23,6 +23,6 @@
 - 2 tsp. vanilla extract (pure is best, not the artifical stuff)
 - 2 cups chocolate chips (or measure with your heart)
 
-1. Preheat oven ro 350F. In a medium bowl, whisk together flour and baking soda. In a separate, large bowl, cream together butter and both sugars until fluffy. Beat in salt, vanilla, and eggs. Gently mix in flour mixture until just combined. Stir in chocolate chips.
+1. Preheat oven to 350°F. In a medium bowl, whisk together flour and baking soda. In a separate, large bowl, cream together butter and both sugars until fluffy. Beat in salt, vanilla, and eggs. Gently mix in flour mixture until just combined. Stir in chocolate chips.
 2. Line baking sheets with parchment. Drop tablespoon-sized balls onto sheets, roughly an inch or so apart.
 3. Bake until golden around edges but soft in the center, about 8-10 minutes. Let cool on baking sheet until they are firm enough to transfer to wire cooling racks.

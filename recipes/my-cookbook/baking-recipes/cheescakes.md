@@ -8,7 +8,7 @@
 
 ## Directions:
 _Missing bake time_
-Preheat oven to 325F. Heat a water bath to 175F.\
+Preheat oven to 325°F. Heat a water bath to 175°F.\
 Min a large bowl, mix sugar, vanilla, and cream cheese until smooth. Add eggs until blended. Do not over mix.\
 Add to pan over choice of crust. Insert pan into water bath. Bake for ??.\
 Remove path from both oven and water bath and allow to cool to room temperature. Chill in refrigerator at least 4 hours.\

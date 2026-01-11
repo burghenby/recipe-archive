@@ -1,7 +1,7 @@
 # Gingerbread White Chocolate Chip Cookies
 ---
 
-##Ingredients
+## Ingredients
 
 - 2 ¼ cups all-purpose flour
 - 1 cup sugar
