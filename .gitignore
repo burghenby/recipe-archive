@@ -1,8 +1,10 @@
 # temp files
 *~$*
 *~*
-*backup*'
+*backup*
 *.idea*
+
+*/template.md
 
 # WIP
 WIP
@@ -11,3 +13,4 @@ WIP
 *.zip
 *.iml
 *.xml
+recipes/courier-gazette/template.md
