@@ -10,8 +10,8 @@
 
 - **Source**: *Target's Good & Gather* Powdered Sugar bag
 ---
-**Hands-On Time**: 5 min
-**Total Time**: 5 min
+**Hands-On Time**: 5 min\
+**Total Time**: 5 min\
 **Makes**: enough frosting for a 13x9 or 9-inch layer cake
 
 ## Ingredients

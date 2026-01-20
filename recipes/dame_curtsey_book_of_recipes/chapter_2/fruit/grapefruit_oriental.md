@@ -10,8 +10,8 @@
 
 - **Source**: *"Dame Curtsey's" Book of Recipes*
 ---
-**Prep Time**: (Omit if not provided by recipe)
-**Total Time**: (Omit if not provided by recipe)
+**Prep Time**: (Omit if not provided by recipe)\
+**Total Time**: (Omit if not provided by recipe)\
 **Makes**: (Omit if not provided by recipe)
 
 ## Ingredients

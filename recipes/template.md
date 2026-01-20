@@ -8,10 +8,10 @@
 
 # Recipe Name
 
-**Source**: *Brand w/Line (if applicable)* flavor (if applicable)  form (packet, tin, bag, etc)
+- **Source**: *Brand w/Line (if applicable)* flavor (if applicable)  form (packet, tin, bag, etc)
 ---
-**Prep Time**: (Omit if not provided by recipe)
-**Total Time**: (Omit if not provided by recipe)
+**Prep Time**: (Omit if not provided by recipe)\
+**Total Time**: (Omit if not provided by recipe)\
 **Makes**: (Omit if not provided by recipe)
 
 ## Ingredients
