@@ -10,8 +10,8 @@
 
 - **Source**: *Cool Whip* Original tub
 ---
-**Prep Time**: 15 min.
-**Total Time**: 1 hour 15 min. (incl. refrigerating)
+**Prep Time**: 15 min.\
+**Total Time**: 1 hour 15 min. (incl. refrigerating)\
 **Makes**: 10 servings
 
 ## Ingredients

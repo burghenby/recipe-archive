@@ -10,8 +10,8 @@
 
 - **Source**: *Taste of Home* magazine recipe card insert by Linda Drees
 ---
-**Prep Time**: 20 minutes
-**Cook Time**: 25 hours
+**Prep Time**: 20 minutes\
+**Cook Time**: 25 hours\
 **Makes**: 6 servings
 
 ## Ingredients

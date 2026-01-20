@@ -10,8 +10,6 @@
 
 - **Source**: *Hershey's* Cocoa Tub
 ---
-**Prep Time**: (Omit if not provided by recipe)
-**Total Time**: (Omit if not provided by recipe)
 **Makes**: 6 Servings
 
 ## Ingredients

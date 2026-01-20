@@ -10,9 +10,6 @@
 
 **Source**: *Tiborang* Grace 7-in-1 Multifunction Cooker User Guide
 ---
-**Prep Time**: (Omit if not provided by recipe)
-**Total Time**: (Omit if not provided by recipe)
-**Makes**: (Omit if not provided by recipe)
 
 ## Ingredients
 

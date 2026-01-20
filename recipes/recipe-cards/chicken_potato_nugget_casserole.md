@@ -10,8 +10,8 @@
 
 - **Source**: *Pillsbury* grocery story recipe card, early 2000's
 ---
-**Prep Time**: 10 minutes
-**Total Time**: 1 hour 10 minutes
+**Prep Time**: 10 minutes\
+**Total Time**: 1 hour 10 minutes\
 **Makes**: 4 servings
 
 ## Ingredients

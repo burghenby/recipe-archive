@@ -2,8 +2,8 @@
 
 - **Source**: *Reynolds* Slow Cooker Liners insert
 ---
-**Prep Time**: 20 minutes
-**Cook Time**: 3 hours
+**Prep Time**: 20 minutes\
+**Cook Time**: 3 hours\
 **Makes**: 8 to 9 servings
 
 ## Ingredients

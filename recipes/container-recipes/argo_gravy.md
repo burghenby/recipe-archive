@@ -10,8 +10,8 @@
 
 - **Source**: *Argo* Cornstarch container
 ---
-**Prep Time**: 5 minutes
-**Cook Time**: 5 minutes
+**Prep Time**: 5 minutes\
+**Cook Time**: 5 minutes\
 **Makes**: 2 cups
 
 ## Ingredients

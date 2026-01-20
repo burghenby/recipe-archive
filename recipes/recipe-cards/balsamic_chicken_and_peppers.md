@@ -10,7 +10,7 @@
 
 - **Source**: *Taste of Home* magazine recipe card insert by Valerie Moore
 ---
-**Total Time**: 25 minutes
+**Total Time**: 25 minutes\
 **Makes**: 4 servings
 
 ## Ingredients

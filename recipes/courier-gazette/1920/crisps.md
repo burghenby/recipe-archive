@@ -10,8 +10,8 @@
 
 - **Source**: *Rockland Courier-Gazette*, 3-1-1921; Page 8, Nellie Maxwell, 1920
 ---
-**Prep Time**: (Omit if not provided by recipe)
-**Total Time**: (Omit if not provided by recipe)
+**Prep Time**: (Omit if not provided by recipe)\
+**Total Time**: (Omit if not provided by recipe)\
 **Makes**: (Omit if not provided by recipe)
 
 ## Ingredients

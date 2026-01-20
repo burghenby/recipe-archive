@@ -10,8 +10,8 @@
 
 - **Source**: *Martha Stewart Living* magazine recipe card, November 2005
 ---
-**Prep Time**: 20 minutes
-**Total Time**: 45 minutes
+**Prep Time**: 20 minutes\
+**Total Time**: 45 minutes\
 **Makes**: 4 servings
 
 ## Ingredients
