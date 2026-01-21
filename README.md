@@ -14,25 +14,26 @@ This fact hit closer to home with my late grandmother's worsening dementia and l
 Title; Publication Year; Author(s); Publisher; Book size; Source
 
 #### #
-- **110 Cookie Recipes**; 1987; Mary Jane Friedhoff, Lois Tlusty (Editors), Gloria Florey (Copy Editor); General Mills Inc. Minneapolis, MN; Own Collection
+- **110 Cookie Recipes**; 1987; Mary Jane Friedhoff, Lois Tlusty (_Editors_), Gloria Florey (_Copy Editor_); General Mills Inc. Minneapolis, MN; Own Collection
 #### A
 - **Atlas Flour Cook Book**; 1923; Ellye Howell Glover; A. C. McClurg & Co., Chicago; Internet Archive
-  _(aka. **Laurel/Blubird Flour Cook Book**, same year, author, publisher)_
-  -(See also: **"Dame Curtsey's" Book of Recipes**, 1909) 
+  (_aka. **Laurel/Blubird Flour Cook Book**, same year, author, publisher_)
+  (_See also: **"Dame Curtsey's" Book of Recipes**, 1909_)
 #### B
 - _Beaver Mills Cook Book_; 1908; The T.H. Taylor Co. Limited; Internet Archive
 - **The Best Ice Cream**; approx. 1900; Borden Condensed Milk Co.; Internet Archive
+- **The Betty Crocker Recipe Card Library**; 1971(cards)-1981(index); General Mills, Minneapolis, MN; Own collection
 - **The Boston Baking-School Cook Book**; 1918; Fannie Merritt Farmer; Little, Brown, and Company, Boston; Internet Archive
 - **The Bride's Cook Book**; 1917; The California Bride's Publishing Company, San Francisco, CA; Internet Archive
 #### C
-- **The Candy Book**; post-1904; The W.C.T.U. (Women's Christian Temperance Union) of Florida; Internet Archive
+- **The Candy Book**; post-1904; The W.C.T.U. (_Women's Christian Temperance Union_) of Florida; Internet Archive
 - **The Candy Cook Book**; 1918; Alice Bradley; Little, Brown, and Company; Boston; Internet Archive
 - **Cleveland's Superior Receipts**; 1895; Cleveland Baking Powder Company; 4.25" x 6.75"; Internet Archive
 #### D
 - **Dainty Luncheons. How to Prepare Them**; 1900; Woolverton Printing & Publishing Co.; Internet Archive
 - **"Dame Curtsey's" Book of Candy Making**; 1913; Ellye Howell Glover; A. C. McClurg & Co., Chicago; Internet Archive
 - **"Dame Curtsey's" Book of Recipes**; 1909; Ellye Howell Glover; A. C. McClurg & Co., Chicago; Internet Archive
-  _(See also: **Atlas/Laurel/Blubird Flour Cook Book**, 1923)_
+  (_See also: **Atlas/Laurel/Blubird Flour Cook Book**, 1923_)
 - **The Dessert Book**; 1900; Woolverton Printing & Publishing Co.,. Osage, Iowa; Internet Archive
 - **Distinctive Tillamook Full Cream Cheese Recipes**; 1918; Tillamook County Creamery Association; Internet Archive
 - **Dr. Mile's Candy Book**; 1900's; Dr. Miles Medical Co., Elkhart, Ind.; Internet Archive
@@ -83,7 +84,7 @@ Title; Publication Year; Author(s); Publisher; Book size; Source
 
 ## References
 
-[The Vintage Cook](https://thevintagecook.com/homemade-mayonnaise/)
-[Eating History](https://eating-history.co.uk/recipes/indian-meal-porridge)
-[12 Tomatoes](https://12tomatoes.com/old-recipe-terms-explained/ )
+[The Vintage Cook](https://thevintagecook.com/homemade-mayonnaise/)\
+[Eating History](https://eating-history.co.uk/recipes/indian-meal-porridge)\
+[12 Tomatoes](https://12tomatoes.com/old-recipe-terms-explained/ )\
 [Eating the Eras](https://www.eatingtheeras.com/post/measure-out-a-guide-to-understanding-old-recipe-measurements)

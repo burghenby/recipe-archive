@@ -8,7 +8,7 @@
 
 # Chunky Chocolate Cookies
 
-**Source**: Believe the original recipe this came from was on a grocery store recipe card, but regardless of where the original recipe came from the recipe as it is now was adjusted a few times to suit my preferred baking and tastes.
+- **Source**: Believe the original recipe this came from was on a grocery store recipe card, but regardless of where the original recipe came from the recipe as it is now was adjusted a few times to suit my preferred baking and tastes. Example being that the original recipe utilized a sugar cookie mix and I instead incorporated a brown sugar cookie recipe.
 ---
 
 ## Ingredients
