@@ -2,10 +2,6 @@
 |----|------|------|
 |Appetizer|"Dame Curtsey's" Book of Recipes|[#32](https://github.com/burghenby/recipe-archive/issues/32)|
 
-|Protein|Dairy|Vegetables|Fruit|Spices|Herbs|Sugars|
-|--|--|--|--|--|--|--|
-|Ham|Dairy|Veggies|Fruit|Spice|Herb|Sweets|
-
 # Ham Canapes
 
 - **Source**: *"Dame Curtsey's" Book of Recipes*

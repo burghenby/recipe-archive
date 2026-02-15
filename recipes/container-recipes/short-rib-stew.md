@@ -2,10 +2,6 @@
 |:-----:|:----------:|:-------:|
 | Type  | User Guide |  None   |
 
-| Protein | Dairy  | Vegetables  | Fruit  | Spices  | Herbs  | Sugars  |
-|:-------:|:------:|:-----------:|:------:|:-------:|:------:|:-------:|
-|  Beef   | Dairy  |   Veggies   | Fruit  |  Spice  |  Herb  | Sweets  |
-
 # Short Rib Stew
 
 **Source**: *Tiborang* Grace 7-in-1 Multifunction Cooker User Guide

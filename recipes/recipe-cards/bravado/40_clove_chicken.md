@@ -2,10 +2,6 @@
 |:------:|:-----------:|:-------:|
 | Entree | Recipe Card |  None   |
 
-| Protein  | Dairy  | Vegetables  | Fruit  | Spices  | Herbs  | Sugars  |
-|:--------:|:------:|:-----------:|:------:|:-------:|:------:|:-------:|
-| Protein  | Dairy  |   Veggies   | Fruit  |  Spice  |  Herb  | Sweets  |
-
 # 40 Clove Chicken
 
 - **Source**: *[Bravado Spice](https://bravadospice.com/)* 40 Clove Chicken recipe card

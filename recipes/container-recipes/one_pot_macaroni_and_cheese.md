@@ -1,3 +1,7 @@
+|    Type     |Origin|Issues|
+|:-----------:|:----------:|:-------:|
+| Entree |Container|None|
+
 # One Pot Mac & Cheese
 
 - **Source**: *Good and Gather* elbow macaroni box

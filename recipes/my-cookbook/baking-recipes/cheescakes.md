@@ -1,3 +1,7 @@
+| Type | Origin | Issues  |
+|:----:|:------:|:-------:|
+| Type | Origin |  None   |
+
 # Cheesecakes
 ## Basic Recipe
 ## Ingredients:

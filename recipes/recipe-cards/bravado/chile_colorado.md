@@ -2,10 +2,6 @@
 |:------:|:-----------:|:-------:|
 | Entree | Recipe Card |  None   |
 
-| Protein  | Dairy  | Vegetables  | Fruit  | Spices  | Herbs  | Sugars  |
-|:--------:|:------:|:-----------:|:------:|:-------:|:------:|:-------:|
-| Protein  | Dairy  |   Veggies   | Fruit  |  Spice  |  Herb  | Sweets  |
-
 # Chile Colorado & Masa Waffles
 
 - **Source**: *[Bravado Spice](https://bravadospice.com/)* Chile Colorado recipe card

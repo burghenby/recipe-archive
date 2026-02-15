@@ -2,10 +2,6 @@
 |:-----:|:-----------:|:-------:|
 | Type  | Combination |  None   |
 
-| Protein  | Dairy  | Vegetables  | Fruit  | Spices  | Herbs  | Sugars  |
-|:--------:|:------:|:-----------:|:------:|:-------:|:------:|:-------:|
-| Protein  | Dairy  |   Veggies   | Fruit  |  Spice  |  Herb  | Sweets  |
-
 # Cookies from Cake Mix
 
 **Source**: I'd seen the boxed cake mix method around many places; I don't believe I took this information from any one blog, video, or post. Converting a cake recipe, on the other hand, I have no recollection at all where I got the info I used and if memory serves, it was a miracle that the conversion even worked. 

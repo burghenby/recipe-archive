@@ -2,10 +2,6 @@
 |:---------:|:-----------:|:-------:|
 | Appetizer | Recipe Card |  None   |
 
-| Protein  | Dairy  | Vegetables  | Fruit  | Spices  | Herbs  | Sugars  |
-|:--------:|:------:|:-----------:|:------:|:-------:|:------:|:-------:|
-| Protein  | Dairy  |   Veggies   | Fruit  |  Spice  |  Herb  | Sweets  |
-
 # Spinach Artichoke Dip
 
 - **Source**: *[Bravado Spice](https://bravadospice.com/)* Spinach Artichoke Dip recipe card

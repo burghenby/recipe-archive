@@ -2,10 +2,6 @@
 |:------:|:-----------:|:-------:|
 | Entree | Recipe Card |  None   |
 
-| Protein  | Dairy  | Vegetables  | Fruit  | Spices  | Herbs  | Sugars  |
-|:--------:|:------:|:-----------:|:------:|:-------:|:------:|:-------:|
-| Protein  | Dairy  |   Veggies   | Fruit  |  Spice  |  Herb  | Sweets  |
-
 # Chicken Parmesan
 
 - **Source**: *[Bravado Spice](https://bravadospice.com/)* Chicken Parmesan recipe card

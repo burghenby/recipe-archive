@@ -2,10 +2,6 @@
 |----|------|------|
 |Type|"Dame Curtsey's" Book of Recipes|#32|
 
-|Protein|Dairy|Vegetables|Fruit|Spices|Herbs|Sugars|
-|--|--|--|--|--|--|--|
-|Protein|Dairy|Veggies|Fruit|Spice|Herb|Sweets|
-
 # Clam Cocktail
 
 - **Source**: *"Dame Curtsey's" Book of Recipes*

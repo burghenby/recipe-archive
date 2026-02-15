@@ -1,3 +1,7 @@
+|Type|Origin|Issues|
+|:---------:|:----------:|:-------:|
+|Dessert|Container|None|
+
 # Oatmeal Scotchies
 
 - **Source**: *Nestle Toll House* Butterscotch flavored chips bag

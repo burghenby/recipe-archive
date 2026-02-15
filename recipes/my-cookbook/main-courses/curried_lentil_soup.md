@@ -1,3 +1,7 @@
+| Type | Origin | Issues  |
+|:----:|:------:|:-------:|
+| Type | Origin |  None   |
+
 # Creamy Curried Lentil Soup
 ---
 *Serves 4*

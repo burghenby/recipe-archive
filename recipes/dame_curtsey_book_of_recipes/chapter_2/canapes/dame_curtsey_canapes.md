@@ -2,10 +2,6 @@
 |----|------|------|
 |Type|"Dame Curtsey's" Book of Recipes|None|
 
-|Protein|Dairy|Vegetables|Fruit|Spices|Herbs|Sugars|
-|--|--|--|--|--|--|--|
-|Protein|Dairy|Veggies|Fruit|Spice|Herb|Sweets|
-
 # "Dame Curtsey" Canapes
 
 - **Source**: *"Dame Curtsey's" Book of Recipes*

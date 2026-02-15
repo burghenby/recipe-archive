@@ -1,3 +1,7 @@
+|  Type   | Origin | Issues  |
+|:-------:|:------:|:-------:|
+| Dessert | Origin |  None   |
+
 # Gingerbread White Chocolate Chip Cookies
 ---
 

@@ -2,10 +2,6 @@
 |:---------:|:------:|:-------:|
 | Appetizer |  Card  |  None   |
 
-| Protein  | Dairy  | Vegetables  | Fruit  | Spices  | Herbs  | Sugars  |
-|:--------:|:------:|:-----------:|:------:|:-------:|:------:|:-------:|
-| Protein  | Dairy  |   Veggies   | Fruit  |  Spice  |  Herb  | Sweets  |
-
 # Sky-High Biscuits
 
 - **Source**: _My Great Recipes_ circa 1983 (MCMLXXXIII); Printed in W. Germany

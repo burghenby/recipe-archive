@@ -2,10 +2,6 @@
 |:---------:|:--------:|:-------:|
 | Appetizer | Personal |  None   |
 
-| Protein  | Dairy  | Vegetables  | Fruit  | Spices  | Herbs  | Sugars  |
-|:--------:|:------:|:-----------:|:------:|:-------:|:------:|:-------:|
-| Protein  | Dairy  |   Veggies   | Fruit  |  Spice  |  Herb  | Sweets  |
-
 # Peanut Butter Cheesecake Pretzel Dip
 
 - **Source**: 

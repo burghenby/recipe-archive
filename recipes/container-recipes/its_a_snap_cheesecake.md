@@ -1,3 +1,7 @@
+|Type|Origin|Issues|
+|:---------:|:----------:|:-------:|
+|Dessert|Container|None|
+
 # It's-a-Snap Cheesecake
 
 - **Source**: *Knox* Unflavored Gelatine box

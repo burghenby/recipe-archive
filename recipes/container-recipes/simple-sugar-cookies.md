@@ -2,10 +2,6 @@
 |:-----:|:---------:|:-------:|
 | Type  | Container |  None   |
 
-| Protein  | Dairy  | Vegetables  | Fruit  | Spices  | Herbs  | Sugars  |
-|:--------:|:------:|:-----------:|:------:|:-------:|:------:|:-------:|
-| Protein  | Dairy  |   Veggies   | Fruit  |  Spice  |  Herb  | Sweets  |
-
 # Simple Sugar Cookies
 
 **Source**: *Baker's Corner (Aldi's)* Granulated Sugar

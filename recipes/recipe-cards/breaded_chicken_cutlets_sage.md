@@ -2,10 +2,6 @@
 |----|------|------|
 |Main Course|Magazine|None|
 
-|Protein|Dairy|Vegetables|Fruit|Spices|Herbs|Sugars|
-|--|--|--|--|--|--|--|
-|Chicken|Buttermilk|None|None|Hot Sauce|Ground Pepper; Sage, fresh|None|
-
 # Breaded Chicken Cutlets with Sage
 
 - **Source**: *Martha Stewart Living* magazine recipe card, November 2005

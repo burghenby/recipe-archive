@@ -2,10 +2,6 @@
 |----|------|------|
 |Beverage|Container|None|
 
-|Protein|Dairy|Vegetables|Fruit|Spices|Herbs|Sugars|
-|--|--|--|--|--|--|--|
-|N/A|Milk|N/A|N/A|Salt, Vanilla|N/A|Sugar|
-
 # "Perfectly Chocolate" Hot Cocoa
 
 - **Source**: *Hershey's* Cocoa Tub

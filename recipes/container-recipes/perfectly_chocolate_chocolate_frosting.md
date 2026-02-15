@@ -2,10 +2,6 @@
 |----|------|------|
 |Frosting|Container|None|
 
-|Protein|Dairy|Vegetables|Fruit|Spices|Herbs|Sugars|
-|--|--|--|--|--|--|--|
-|N/A|Butter, Milk|N/A|N/A|Vanilla|N/A|Powdered Sugar|
-
 # Hershey's "Perfectly Chocolate" Chocolate Frosting
 
 - **Source**: *Hershey's* Cocoa Tub

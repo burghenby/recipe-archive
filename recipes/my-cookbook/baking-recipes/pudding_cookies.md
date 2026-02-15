@@ -2,10 +2,6 @@
 |:-------:|:-----------:|:------:|
 | Cookies | Combination |  #42   |
 
-| Protein | Dairy | Vegetables | Fruit |      Spices       | Herbs  |            Sugars             |
-|:-------:|:-----:|:----------:|:-----:|:-----------------:|:------:|:-----------------------------:|
-|  Eggs   | Milk  |    N/A     |  N/A  | Vanilla, Optional |  Herb  | Pudding, Baking Chips, Sugars |
-
 # Pudding Cookies
 
 **Source**: Inspired by a recipe originally found on Pinterest with further research into other cookie recipes using instant pudding.

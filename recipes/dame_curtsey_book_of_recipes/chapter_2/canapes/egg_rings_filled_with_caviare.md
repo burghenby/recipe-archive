@@ -2,10 +2,6 @@
 |----|------|------|
 |Appetizer|"Dame Curtsey's" Book of Recipes|[#29](https://github.com/burghenby/recipe-archive/issues/29)|
 
-|Protein|Dairy|Vegetables|Fruit|Spices|Herbs|Sugars|
-|--|--|--|--|--|--|--|
-|Protein|Dairy|Veggies|Fruit|Spice|Herb|Sweets|
-
 # Egg-rings Filled with Caviare
 
 - **Source**: *"Dame Curtsey's" Book of Recipes*

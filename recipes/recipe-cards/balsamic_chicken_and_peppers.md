@@ -2,10 +2,6 @@
 |----|------|------|
 |Main Course|Magazine|None|
 
-|Protein|Dairy|Vegetables|Fruit|Spices|Herbs|Sugars|
-|--|--|--|--|--|--|--|
-|Chicken|None|Onion; Peppers;|None|Salt; Pepper|None|None|
-
 # Balsamic Chicken and Peppers
 
 - **Source**: *Taste of Home* magazine recipe card insert by Valerie Moore

@@ -1,3 +1,7 @@
+| Type | Origin | Issues  |
+|:----:|:------:|:-------:|
+| Type | Origin |  None   |
+
 # Meatballs
 ---
 ## Base Protein - 1 pound

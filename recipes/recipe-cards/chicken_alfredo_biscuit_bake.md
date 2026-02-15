@@ -2,10 +2,6 @@
 |----|------|------|
 |Main Course|Magazine|None|
 
-|Protein|Dairy|Vegetables|Fruit|Spices|Herbs|Sugars|
-|--|--|--|--|--|--|--|
-|Chicken|Alfredo pasta sauce; Milk; Butter; Cheese, parmesan|Mushrooms; Broccoli|None|None|Basil, dried|None|
-
 # Chicken-Alfredo Biscuit Bake
 
 - **Source**: *Pillsbury* grocery store recipe card, early 2000's

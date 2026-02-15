@@ -1,3 +1,7 @@
+|Type|Origin|Issues|
+|:---------:|:----------:|:-------:|
+|Dessert|Container|None|
+
 # Glazed Cinnamon Apples
 
 - **Source**: *Reynolds* Slow Cooker Liners insert

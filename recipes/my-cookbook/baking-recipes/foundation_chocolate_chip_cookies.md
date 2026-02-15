@@ -1,3 +1,7 @@
+| Type | Origin | Issues  |
+|:----:|:------:|:-------:|
+| Type | Origin |  None   |
+
 # Foundation Chocolate Chip Cookies
 
 ## For Thin and Crispy

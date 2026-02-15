@@ -1,3 +1,7 @@
+| Type  | Origin | Issues  |
+|:-----:|:------:|:-------:|
+| Type  | Origin |  None   |
+
 # Teriyaki Pork Fried Rice Dinner
 
 - **Source**: *Knorr Asian Sides* Teriyaki Rice packet

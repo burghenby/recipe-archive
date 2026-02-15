@@ -1,3 +1,7 @@
+| Type | Origin | Issues  |
+|:----:|:------:|:-------:|
+| Type | Origin |  None   |
+
 # Chicken Orzo Soup
 ---
 *Serves 4*

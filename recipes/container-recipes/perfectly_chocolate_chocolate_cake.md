@@ -2,10 +2,6 @@
 |----|------|------|
 |Dessert|Container|None|
 
-|Protein|Dairy|Vegetables|Fruit|Spices|Herbs|Sugars|
-|--|--|--|--|--|--|--|
-|Eggs|Milk|N/A|N/A|Vanilla, Salt|N/A|Sugar|
-
 # Hershey's "Perfectly Chocolate" Chocolate Cake
 
 - **Source**: *Hershey's* Cocoa Tub

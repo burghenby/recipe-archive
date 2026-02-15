@@ -2,10 +2,6 @@
 |----|-----------|------|
 |Type| Newspaper |None|
 
-|Protein|Dairy|Vegetables|Fruit|Spices|Herbs|Sugars|
-|--|--|--|--|--|--|--|
-|Protein|Dairy|Veggies|Fruit|Spice|Herb|Sweets|
-
 # Baked Pears
 
 - **Source**: *Rockland Courier-Gazette*, 3-1-1921; Page 8, Nellie Maxwell, 1920

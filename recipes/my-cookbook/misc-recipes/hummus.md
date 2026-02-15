@@ -1,3 +1,7 @@
+| Type | Origin | Issues  |
+|:----:|:------:|:-------:|
+| Type | Origin |  None   |
+
 # Hummus
 
 For all combinations, combine ingredients in a food processor or a bowl with a stick blender and blend until smooth.

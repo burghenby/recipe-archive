@@ -1,3 +1,7 @@
+|    Type     |Origin|Issues|
+|:-----------:|:----------:|:-------:|
+| Entree |Container|None|
+
 # Red and White Chili
 
 - **Source**: *Reynolds Kitchens* Slow Cooker Liners insert (pre-2019)

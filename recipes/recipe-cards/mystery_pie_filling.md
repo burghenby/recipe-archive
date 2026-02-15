@@ -2,10 +2,6 @@
 |:-----:|:-------:|:-------:|
 | Type  | Source  |  None   |
 
-| Protein  | Dairy  | Vegetables  | Fruit  | Spices  | Herbs  | Sugars  |
-|:--------:|:------:|:-----------:|:------:|:-------:|:------:|:-------:|
-| Protein  | Dairy  |   Veggies   | Fruit  |  Spice  |  Herb  | Sweets  |
-
 # Unknown Pie and Pie Filling
 
 - **Source**: Cayde's collection; Has no name, no directions; Presumed to be for a pie and a pie filling

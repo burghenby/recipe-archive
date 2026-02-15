@@ -2,10 +2,6 @@
 |:------:|:-----------:|:-------:|
 | Entree | Recipe Card |  None   |
 
-| Protein  | Dairy  | Vegetables  | Fruit  | Spices  | Herbs  | Sugars  |
-|:--------:|:------:|:-----------:|:------:|:-------:|:------:|:-------:|
-| Protein  | Dairy  |   Veggies   | Fruit  |  Spice  |  Herb  | Sweets  |
-
 # Spicy Chicken Marsala
 
 - **Source**: *[Bravado Spice](https://bravadospice.com/)* Spicy Chicken Marsala recipe card

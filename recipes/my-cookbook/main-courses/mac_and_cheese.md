@@ -2,10 +2,6 @@
 |:------:|:------:|:-------:|
 | Dinner | Unsure |  None   |
 
-| Protein |        Dairy         | Vegetables | Fruit |    Spices    |  Herbs   | Sugars |
-|:-------:|:--------------------:|:----------:|:-----:|:------------:|:--------:|:------:|
-|   N/A   | Milk, Cheese, Butter |    N/A     |  N/A  | Salt, Pepper | Optional |  N/A   |
-
 # Simple Southern Mac & Cheese
 
 **Source**: Unsure, possible a magazine before or around 2019

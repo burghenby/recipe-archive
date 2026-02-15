@@ -1,3 +1,7 @@
+|   Type   |Origin|Issues|
+|:--------:|:----------:|:-------:|
+| Marinade |Container|None|
+
 # Spicy Marinade for Chicken
 
 - **Source**: *Old Bay* seasoning tin

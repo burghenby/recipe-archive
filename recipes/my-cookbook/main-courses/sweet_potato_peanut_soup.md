@@ -1,3 +1,7 @@
+| Type | Origin | Issues  |
+|:----:|:------:|:-------:|
+| Type | Origin |  None   |
+
 # Smooth Peanut & Sweet Potato Soup
 ---
 *Serves 4*

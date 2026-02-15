@@ -1,10 +1,6 @@
-| Type  |   Origin   | Issues  |
-|:-----:|:----------:|:-------:|
-| Type  | User Guide |  None   |
-
-|  Protein   | Dairy  | Vegetables  | Fruit  | Spices  | Herbs  | Sugars  |
-|:----------:|:------:|:-----------:|:------:|:-------:|:------:|:-------:|
-| Pork, Beef | Dairy  |   Veggies   | Fruit  |  Spice  |  Herb  | Sweets  |
+|  Type  |   Origin   | Issues  |
+|:------:|:----------:|:-------:|
+| Entree | User Guide |  None   |
 
 # Spaghetti with Meatballs
 

@@ -1,3 +1,7 @@
+|  Type   | Origin | Issues  |
+|:-------:|:------:|:-------:|
+| Dessert | Origin |  None   |
+
 # Premier White Chip Chocolate Cookies
 
 - **Source**: *Nestle Toll House* White Morsel chips bag

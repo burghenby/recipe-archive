@@ -2,10 +2,6 @@
 |:--------:|:------:|:-------:|
 | Cocktail | Insert |  None   |
 
-| Protein  | Dairy  | Vegetables  | Fruit  | Spices  | Herbs  | Sugars  |
-|:--------:|:------:|:-----------:|:------:|:-------:|:------:|:-------:|
-| Protein  | Dairy  |   Veggies   | Fruit  |  Spice  |  Herb  | Sweets  |
-
 # Orange Moscow Mule
 
 - **Source**: *[Copper Bar](https://www.instagram.com/copper_bar_official/)* Moscow Mule Mugs Recipe Book

@@ -2,10 +2,6 @@
 |:-------:|:---------:|:-------:|
 | Dessert | Container |  None   |
 
-| Protein  | Dairy  | Vegetables  | Fruit  | Spices  | Herbs  | Sugars  |
-|:--------:|:------:|:-----------:|:------:|:-------:|:------:|:-------:|
-| Protein  | Dairy  |   Veggies   | Fruit  |  Spice  |  Herb  | Sweets  |
-
 # Brown Sugar Cookies
 
 - **Source**: _Crisco_ All-Vegetable Shortening package holiday wrapper. This is the recipe that I utilize as part of my "Chunky Chocolate Cookies" in place of a packaged sugar cookie mix.

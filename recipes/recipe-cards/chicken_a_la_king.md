@@ -2,10 +2,6 @@
 |----|------|------|
 |Main Course|Magazine|None|
 
-|Protein|Dairy|Vegetables|Fruit|Spices|Herbs|Sugars|
-|--|--|--|--|--|--|--|
-|Chicken|Butter; Milk|Celery; Peas, sweet; Mushrooms; Pimentos, jar; Bell Pepper|None|None|Thyme,dried|None|
-
 # Grands! and Tyson Chicken À La King
 
 - **Source**: *Pillsbury* grocery store recipe card, circa 2002

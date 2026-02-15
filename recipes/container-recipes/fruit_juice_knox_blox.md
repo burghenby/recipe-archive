@@ -1,10 +1,6 @@
 |Type|Origin|Issues|
-|----|------|------|
+|:---------:|:----------:|:-------:|
 |Dessert|Container|None|
-
-|Protein|Dairy|Vegetables|Fruit|Spices|Herbs|Sugars|
-|--|--|--|--|--|--|--|
-|N/A|N/A|N/A|Apple Juice|N/A|N/A|Apple Juice|
 
 # Fruit Juice KNOX Blox
 

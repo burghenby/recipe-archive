@@ -2,10 +2,6 @@
 |:-----:|:------:|:-------:|
 | Sauce | Unsure |  None   |
 
-| Protein |    Dairy     | Vegetables | Fruit | Spices | Herbs | Sugars |
-|:-------:|:------------:|:----------:|:-----:|:------:|:-----:|:------:|
-|   N/A   | Cheese, Milk |    N/A     |  N/A  |  N/A   |  N/A  |  N/A   |
-
 # Cheese Sauce
 ---
 

@@ -1,10 +1,6 @@
 |Type|Origin|Issues|
-|----|------|------|
+|:---------:|:----------:|:-------:|
 |Dessert|Container|None|
-
-|Protein|Dairy|Vegetables|Fruit|Spices|Herbs|Sugars|
-|--|--|--|--|--|--|--|
-|Eggs|Butter|N/A|N/A|Vanilla|N/A|Sugar, Chocolate Chips|
 
 # Double Chocolate Cookies
 

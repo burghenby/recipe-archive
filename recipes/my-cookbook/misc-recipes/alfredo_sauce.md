@@ -2,10 +2,6 @@
 |:-----:|:------:|:-------:|
 | Sauce | Unsure |  None   |
 
-| Protein  | Dairy  | Vegetables  | Fruit  | Spices  | Herbs  | Sugars  |
-|:--------:|:------:|:-----------:|:------:|:-------:|:------:|:-------:|
-| Protein  | Dairy  |   Veggies   | Fruit  |  Spice  |  Herb  | Sweets  |
-
 # Homemade Alfredo Sauce
 ---
 

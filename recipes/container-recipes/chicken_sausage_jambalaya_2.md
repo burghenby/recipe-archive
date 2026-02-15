@@ -1,10 +1,6 @@
 |Type|Origin|Issues|
-|----|------|------|
-|Main Course|Container|None|
-
-|Protein|Dairy|Vegetables|Fruit|Spices|Herbs|Sugars|
-|--|--|--|--|--|--|--|
-|Chicken, Sausage|N/A|Peppers, Tomatoes, Onions, Squash|N/A|Creole or Cajun, Salt|Parsley|N/A|
+|:---------:|:----------:|:-------:|
+|Entree|Container|None|
 
 # Chicken and Sausage Jambalaya
 

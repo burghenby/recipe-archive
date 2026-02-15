@@ -2,10 +2,6 @@
 |:---------:|:----------:|:-------:|
 | Condiment | Television |  None   |
 
-| Protein |    Dairy    | Vegetables | Fruit | Spices | Herbs | Sugars |
-|:-------:|:-----------:|:----------:|:-----:|:------:|:-----:|:------:|
-|   N/A   | Heavy Cream |    N/A     |  N/A  |  N/A   |  N/A  |  N/A   |
-
 # Homemade Butter
 
 **Source**: Mary Berry, Great British Bake-Off Master Class

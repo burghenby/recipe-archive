@@ -1,3 +1,7 @@
+| Type  |Origin|Issues|
+|:-----:|:----------:|:-------:|
+| Salad |Container|None|
+
 # Tasty Ramen Noodle Salad
 
 - **Source**: *Lotus Foods* rice ramen noodles

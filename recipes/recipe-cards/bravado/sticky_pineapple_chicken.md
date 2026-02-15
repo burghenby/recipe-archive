@@ -2,10 +2,6 @@
 |:------:|:-----------:|:-------:|
 | Entree | Recipe Card |  None   |
 
-| Protein  | Dairy  | Vegetables  | Fruit  | Spices  | Herbs  | Sugars  |
-|:--------:|:------:|:-----------:|:------:|:-------:|:------:|:-------:|
-| Protein  | Dairy  |   Veggies   | Fruit  |  Spice  |  Herb  | Sweets  |
-
 # Sticky Pineapple Chicken
 
 - **Source**: *[Bravado Spice](https://bravadospice.com/)* Sticky Pineapple Chicken recipe card

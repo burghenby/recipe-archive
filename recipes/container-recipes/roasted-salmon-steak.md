@@ -2,10 +2,6 @@
 |:-----:|:----------:|:-------:|
 | Type  | User Guide |  None   |
 
-| Protein | Dairy  | Vegetables  | Fruit  | Spices  | Herbs  | Sugars  |
-|:-------:|:------:|:-----------:|:------:|:-------:|:------:|:-------:|
-| Salmon  | Dairy  |   Veggies   | Fruit  |  Spice  |  Herb  | Sweets  |
-
 # Roasted Salmon Steak
 
 **Source**: *Tiborang* Grace 7-in-1 Multifunction Cooker User Guide

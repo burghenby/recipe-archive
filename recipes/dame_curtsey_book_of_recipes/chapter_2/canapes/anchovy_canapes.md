@@ -2,10 +2,6 @@
 |----|------|------|
 |Appetizer|"Dame Curtsey's" Book of Recipes|[#29](https://github.com/burghenby/recipe-archive/issues/29)|
 
-|Protein|Dairy|Vegetables|Fruit|Spices|Herbs|Sugars|
-|--|--|--|--|--|--|--|
-|Anchovies|Eggs; Butter|Beets|Fruit|Spice|Herb|Sweets|
-
 # Anchovy Canapes
 
 - **Source**: *"Dame Curtsey's" Book of Recipes*

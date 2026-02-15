@@ -1,3 +1,7 @@
+|    Type     |Origin|Issues|
+|:-----------:|:----------:|:-------:|
+| Entree |Container|None|
+
 # Game Day Chili
 
 - **Source**: *Reynolds Kitchens* Slow Cooker Liners insert (2019)

@@ -2,10 +2,6 @@
 |:---------:|:-----------:|:-------:|
 | Appetizer | Recipe Card |  None   |
 
-| Protein  | Dairy  | Vegetables  | Fruit  | Spices  | Herbs  | Sugars  |
-|:--------:|:------:|:-----------:|:------:|:-------:|:------:|:-------:|
-| Protein  | Dairy  |   Veggies   | Fruit  |  Spice  |  Herb  | Sweets  |
-
 # Southwest Egg Rolls
 
 - **Source**: *[Bravado Spice](https://bravadospice.com/)* Southwest Egg Rolls recipe card

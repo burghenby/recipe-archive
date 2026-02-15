@@ -2,10 +2,6 @@
 |:-------:|:------:|:-------:|
 | Dessert |  Blog  |  None   |
 
-| Protein | Dairy  | Vegetables |   Fruit   |      Spices       | Herbs |       Sugars       |
-|:-------:|:------:|:----------:|:---------:|:-----------------:|:-----:|:------------------:|
-|   Egg   | Dairy  |    N/A     | Blueberry | Cinnamon, Vanilla |  N/A  | Sugar, Brown sugar |
-
 # Blueberry Coffee Cake
 
 **Source**: Via Pinterest, original from **[Spaceships and Laserbeams](https://spaceshipsandlaserbeams.com/blueberry-coffee-cake/)**, circa 2019; I've since made my own adjustments, plus the site shows that the original recipe was last updated March 27th, 2025

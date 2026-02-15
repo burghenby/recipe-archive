@@ -2,10 +2,6 @@
 |---------|-----------|------|
 | Dessert | Newspaper |None|
 
-| Protein |Dairy|Vegetables| Fruit   |Spices|Herbs|Sugars|
-|---------|--|--|---------|--|--|--|
-| Egg     |Dairy|Veggies| Peaches |Spice|Herb|Sweets|
-
 # Peach Whip
 
 - **Source**: *Rockland Courier-Gazette*, 3-1-1921; Page 8, Nellie Maxwell, 1920

@@ -1,3 +1,7 @@
+|    Type     |Origin|Issues|
+|:-----------:|:----------:|:-------:|
+| Entree |Container|None|
+
 # Mexican Beef Stew
 
 - **Source**: *Reynolds Kitchens* Slow Cooker Liners insert

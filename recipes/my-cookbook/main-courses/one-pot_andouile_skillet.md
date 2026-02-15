@@ -2,10 +2,6 @@
 |:------:|:------:|:-------:|
 | Dinner | Unsure |  None   |
 
-| Protein |    Dairy     |    Vegetables    | Fruit |        Spices        | Herbs  | Sugars  |
-|:-------:|:------------:|:----------------:|:-----:|:--------------------:|:------:|:-------:|
-| Sausage | Milk, Cheese | Tomatoes, Onions |  N/A  | Pepper, Salt, Garlic |  Herb  | Sweets  |
-
 # One-Pot Andouille Sausage Skillet Pasta
 
 **Source**: Unsure, believe it was a recipe card from a grocery aisle dispenser
