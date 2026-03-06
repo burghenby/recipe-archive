@@ -34,4 +34,5 @@
 
 ## High Altitude Baking
 
-Increase Flour to 2-1/2 cups. Add 2 tsp. water with flour and reduce both granulated sugar and brown sugar to 2/3 cup each. Back for 8 to 10 minutes.
+- Increase Flour to 2-1/2 cups. Add 2 tsp. water with flour and reduce both granulated sugar and brown sugar to 2/3 cup each.\
+- Bake for 8 to 10 minutes.
