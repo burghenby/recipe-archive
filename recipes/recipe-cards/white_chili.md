@@ -2,31 +2,32 @@
 |--|--|--|
 |Main Course|Magazine|None|
 
-# White Chili
+!! White Chili
 
-- **Source**: *Cooking Light* recipe card
+!! Source
+[[Cooking Light|Cooking Light magazine]] recipe card
 ---
-**Makes**: 6 servings
+''Makes'': 6 servings
 
-## Ingredients
+!! Ingredients
 
-- 2 tsp. canola oil
-- 1-1/2 c. chopped onion (about 1 large)
-- 3 garlic cloves, minced
-- 2 c. fat-free, lower-sodium chicken broth
-- 5 tsp. green hot pepper sauce
-- 1/2 tsp. kosher salt
-- 1/4 lb. skinless, boneless chicken breast halves
-- 2 tsp. stone-ground cornmeal
-- 1 (19-ounce) can cannellini beans or other white beans, rinsed and drained
-- 1/2 c. plain fat-free yogurt
-- 2 Tbsp. thinly sliced green onions (about 1)
-- Lime wedges (optional)
+* 2 tsp. canola oil
+* 1-1/2 c. chopped onion (about 1 large)
+* 3 garlic cloves, minced
+* 2 c. fat-free, lower-sodium chicken broth
+* 5 tsp. green hot pepper sauce
+* 1/2 tsp. . [[kosher salt|Kosher Salt]]
+* 1/4 lb. skinless, boneless chicken breast halves
+* 2 tsp. stone-ground cornmeal
+* 1 (19-ounce) can cannellini beans or other white beans, rinsed and drained
+* 1/2 c. plain fat-free yogurt
+* 2 Tbsp. thinly sliced green onions (about 1)
+* Lime wedges (optional)
 
-## Directions
+!! Steps
 
-1. Heat oil in a Dutch oven over medium heat. Add chopped onion and garlic to pan; cook 5 minutes or until onion is tender, stirring occasionally. Add broth, hot pepper sauce, salt, and chicken to pan; ring to a boil. Cover, reduce heat to low, and simmer 15 minutes. Remove chicken from broth mixture; cool.
-2. Add cornmeal and beans to broth mixture, stirring with a whisk; simmer 15 minutes. Mash about 1/4 cup beans against side of pan. Cut chicken into bite-sized pieces. Add chicken to pan; simmer 5 minutes or until mixture thickens, stirring frequently. Top each serving with yogurt; sprinkle with green onions. Serve with lime wedges, if desired (serving size: about 3/4 cup soup).
+# Heat oil in a Dutch oven over medium heat. Add chopped onion and garlic to pan; cook 5 minutes or until onion is tender, stirring occasionally. Add broth, hot pepper sauce, salt, and chicken to pan; ring to a boil. Cover, reduce heat to low, and simmer 15 minutes. Remove chicken from broth mixture; cool.
+# Add cornmeal and beans to broth mixture, stirring with a whisk; simmer 15 minutes. Mash about 1/4 cup beans against side of pan. Cut chicken into bite-sized pieces. Add chicken to pan; simmer 5 minutes or until mixture thickens, stirring frequently. Top each serving with yogurt; sprinkle with green onions. Serve with lime wedges, if desired (serving size: about 3/4 cup soup).
 
 
 

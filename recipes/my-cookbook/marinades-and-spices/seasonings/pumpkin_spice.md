@@ -1,14 +1,14 @@
-# Pumpkin Spice
+{H1} Pumpkin Spice
 ---
-## Ingredients
+!! Ingredients
 
-- 8 Tbsp. ground cinnamon
-- 1 1/2 Tbsp. ground ginger
-- 1 1/2 Tbsp. ground nutmeg
-- 1 Tbsp. ground allspice
-- 2 1/2 tsp ground cloves
+* 8 Tbsp. [[ground cinnamon|Ground Cinnamon]]
+* 1 1/2 Tbsp. [[ground ginger|Ground Ginger]]
+* 1 1/2 Tbsp. [[ground nutmeg|Ground Nutmeg]]
+* 1 Tbsp. [[ground allspice|Ground Allspice]]
+* 2 1/2 tsp ground cloves
 
-## Uses
+!! Uses
 
 This blend works well in many places, including batters *(pancakes, cookies, cakes, etc.)*, breads *(taking care to not add too much less you upset the balance)*, and coffee grounds *(again, taking care not to add to much as the finer spices do not play nice with paper filters)*.
 

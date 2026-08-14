@@ -1,23 +1,16 @@
-|Type|Origin|Issues|
-|----|------|------|
-|Type|"Dame Curtsey's" Book of Recipes|None|
+{H1} Recipe Name
 
-# Recipe Name
-
-- **Source**: *"Dame Curtsey's" Book of Recipes*
+!! Source
+[["Dame Curtsey's" Book of Recipes|"Dame Curtsey's" Book of Recipes]]
 ---
-**Prep Time**: (Omit if not provided by recipe)
-**Total Time**: (Omit if not provided by recipe)
-**Makes**: (Omit if not provided by recipe)
+''Prep Time'': (Omit if not provided by recipe)
+''Total Time'': (Omit if not provided by recipe)
+''Makes'': (Omit if not provided by recipe)
 
-## Ingredients
+!! Ingredients
 
-- list as written in the recipe
-- with all quantities and units of measure
-- and preparation as listed in the ingredients
+* list as written in the recipe
+* with all quantities and units of measure
+* and preparation as listed in the ingredients
 
-## Directions - Updated
-
-Degree for copy-paste °
-
-## Directions - Original
+!! Directions

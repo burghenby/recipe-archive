@@ -1,21 +1,18 @@
-|Type|Origin|Issues|
-|----|------|------|
-|Beverage|Container|None|
+{H1} "Perfectly Chocolate" Hot Cocoa
 
-# "Perfectly Chocolate" Hot Cocoa
-
-- **Source**: *Hershey's* Cocoa Tub
+!! Source
+[[Hershey's|Hershey brand]]Cocoa Tub
 ---
-**Makes**: Single Serving
+''Makes'': Single Serving
 
-## Ingredients
+!! Ingredients
 
-- 2 Tbsp. sugar
-- 1 cup milk
-- Dash salt
-- 1/4 tsp. vanilla extract
-- 2 Tbsp. Hershey's Cocoa
+* 2 Tbsp. sugar
+* 1 cup milk
+* Dash salt
+* 1/4 tsp. vanilla extract
+* 2 Tbsp. Hershey's Cocoa
 
-## Directions
+!! Directions
 
-Mix sugar, cocoa and salt in large mug. Heat milk in microwave at HIGH (100%) 1-1/2 minutes or until hot. Gradually add milk to cocoa mixture; stir well. Stir in vanilla.
+# Mix sugar, cocoa and salt in large mug. Heat milk in microwave at HIGH (100%) 1-1/2 minutes or until hot. Gradually add milk to cocoa mixture; stir well. Stir in vanilla.

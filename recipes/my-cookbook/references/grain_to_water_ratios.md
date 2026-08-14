@@ -7,7 +7,7 @@
 |     Hominy Grits     | 1/2 cup |    2-1/2     |   15-20    |
 |        Kamut         | 1/2 cup |    1-1/2     |    Time    |
 |        Millet        |  1 cup  |    2-1/2     |   15-20    |
-|        Quinoa        |  1 cup  |  1-1/2 - 2   |     15     |
+|        Quinoa        |  1 cup  |  1-1/2 * 2   |     15     |
 |         Rice         |  1 cup  |      1       |     15     |
 |     Rolled Oats      |  1 cup  |      2       |    Time    |
 |    Steel-Cut Oats    |  1 cup  |    Water     |   25-30    |

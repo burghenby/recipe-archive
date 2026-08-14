@@ -2,30 +2,27 @@
 |----|------|------|
 |Appetizer|"Dame Curtsey's" Book of Recipes|None|
 
-# Oyster Cocktail
+{H1} Oyster Cocktail
 
-- **Source**: *"Dame Curtsey's" Book of Recipes*
+!! Source
+[["Dame Curtsey's" Book of Recipes|"Dame Curtsey's" Book of Recipes]]
 ---
-**Prep Time**: (Omit if not provided by recipe)\
-**Total Time**: (Omit if not provided by recipe)\
-**Makes**: (Omit if not provided by recipe)
+''Prep Time'': (Omit if not provided by recipe)
+''Total Time'': (Omit if not provided by recipe)
+''Makes'': (Omit if not provided by recipe)
 
-## Ingredients
+!! Ingredients
 
-- 2 dozen small oysters
-- 1 T horseradish
-- 1 T vinegar
-- 2 T lemon juice
-- 1/2 tsp salt
-- 1/2 tsp tabasco sauce
-- 1 T Worcestershire sauce
-- 1 T tomato catsup
+* 2 dozen small oysters
+* 1 T horseradish
+* 1 T vinegar
+* 2 T lemon juice
+* 1/2 tsp salt
+* 1/2 tsp tabasco sauce
+* 1 T Worcestershire sauce
+* 1 T tomato catsup
 
-## Directions - Updated
-
-Degree for copy-paste °
-
-## Directions - Original
+!! Directions
 
 Two dozen small oysters, keep on ice. Place oysters in a small glass and add the following sauce just before serving. 
 Allow about one tablespoonful to each glass. In case of emergency, cocktail sauces put up by a reliable maker may be used with satisfactory results. 

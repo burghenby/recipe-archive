@@ -20,7 +20,7 @@ Title; Publication Year; Author(s); Publisher; Book size; Source
   (_aka. **Laurel/Blubird Flour Cook Book**, same year, author, publisher_)
   (_See also: **"Dame Curtsey's" Book of Recipes**, 1909_)
 #### B
-- _Beaver Mills Cook Book_; 1908; The T.H. Taylor Co. Limited; Internet Archive
+- **Beaver Mills Cook Book**; 1908; The T.H. Taylor Co. Limited; Internet Archive
 - **The Best Ice Cream**; approx. 1900; Borden Condensed Milk Co.; Internet Archive
 - **The Betty Crocker Recipe Card Library**; 1971(cards)-1981(index); General Mills, Minneapolis, MN; Own collection
 - **The Boston Baking-School Cook Book**; 1918; Fannie Merritt Farmer; Little, Brown, and Company, Boston; Internet Archive
@@ -58,7 +58,8 @@ Title; Publication Year; Author(s); Publisher; Book size; Source
 - **The New Butterick Cook Book**; 1924; Flora Rose; The Butterick Publishing Company ; Internet Archive
 #### O
 - **Ogilvie's Book for a Cook**; 1905; Ogilvie Flour Mills Co. Limited, Montreal; Internet Archive
-- _(Pending permission from Chapter 113)_ **Our Cookbook**; Martha Washington Chapter No. 113 O.E.S. Saginaw, MI; Own Collection
+- **Our Cookbook**; Martha Washington Chapter No. 113 O.E.S. Saginaw, MI; Own Collection
+  (_With permission from William Kehrer, Chapter 113_)
 #### P
 - **The Pillsbursy Cook Book**; 1914; Nellie Duling Gans (compiled); Pillsbury Flour Mills Co., Minneapolis; Internet Archive
 - **Purity & Honesty 25 Ways with Peter Cooper's Gelatine**; 1835; Peter Cooper; Internet Archive

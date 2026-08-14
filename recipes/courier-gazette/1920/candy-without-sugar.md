@@ -1,25 +1,18 @@
-|Type| Origin    |Issues|
-|----|-----------|------|
-|Type| Newspaper |None|
+{H1} Candy without Sugar
 
-# Candy without Sugar
-
-- **Source**: *Rockland Courier-Gazette*, 3-1-1921; Page 8, Nellie Maxwell, 1920
+!! Source
+[[Rockland Courier-Gazette|Rockland Courier-Gazette]], 3-1-1921; Page 8, Nellie Maxwell, 1920
 ---
-**Prep Time**: (Omit if not provided by recipe)\
-**Total Time**: (Omit if not provided by recipe)\
-**Makes**: (Omit if not provided by recipe)
+''Prep Time'': (Omit if not provided by recipe)
+''Total Time'': (Omit if not provided by recipe)
+''Makes'': (Omit if not provided by recipe)
 
-## Ingredients
+!! Ingredients
 
-- 2 c. raisins
-- 1 c. nuts
-- 1/4 c. honey
+* 2 c. raisins
+* 1 c. nuts
+* 1/4 c. honey
 
-## Directions - Updated
+!! Directions 
 
-Degree for copy-paste °
-
-## Directions - Original
-
-Take two cupfuls of raisins and one cupful of nuts, put them through the meat chopper, mix in one-fourth of a cupful of honey; pack under weight for a day, then cut into bars.
+# Take two cupfuls of raisins and one cupful of nuts, put them through the meat chopper, mix in one-fourth of a cupful of honey; pack under weight for a day, then cut into bars.

@@ -2,24 +2,21 @@
 |----|------|------|
 |Appetizer|"Dame Curtsey's" Book of Recipes|None|
 
-# Lobster Cocktail Sauce
+{H1} Lobster Cocktail Sauce
 
-- **Source**: *"Dame Curtsey's" Book of Recipes*
+!! Source
+[["Dame Curtsey's" Book of Recipes|"Dame Curtsey's" Book of Recipes]]
 ---
-**Prep Time**: (Omit if not provided by recipe)\
-**Total Time**: (Omit if not provided by recipe)\
-**Makes**: (Omit if not provided by recipe)
+''Prep Time'': (Omit if not provided by recipe)
+''Total Time'': (Omit if not provided by recipe)
+''Makes'': (Omit if not provided by recipe)
 
-## Ingredients
+!! Ingredients
 
-- list as written in the recipe
-- with all quantities and units of measure
-- and preparation as listed in the ingredients
+* list as written in the recipe
+* with all quantities and units of measure
+* and preparation as listed in the ingredients
 
-## Directions - Updated
-
-Degree for copy-paste °
-
-## Directions - Original
+!! Directions
 
 Mix the lemon juice, olive oil, salt, and pepper and pour the mixture over the prepared lobster. Allow it to stand on ice for two hours. Combine the tomato sauce, vinegar, onion juice, and tabasco sauce. When ready to serve, place one portion of lobster in each glass. 

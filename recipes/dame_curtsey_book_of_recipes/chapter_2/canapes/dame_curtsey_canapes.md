@@ -1,28 +1,21 @@
-|Type|Origin|Issues|
-|----|------|------|
-|Type|"Dame Curtsey's" Book of Recipes|None|
+{H1} "Dame Curtsey" Canapes
 
-# "Dame Curtsey" Canapes
-
-- **Source**: *"Dame Curtsey's" Book of Recipes*
+!! Source
+[["Dame Curtsey's" Book of Recipes|"Dame Curtsey's" Book of Recipes]]
 ---
-**Prep Time**: (Omit if not provided by recipe)\
-**Total Time**: (Omit if not provided by recipe)\
-**Makes**: (Omit if not provided by recipe)
+''Prep Time'': (Omit if not provided by recipe)
+''Total Time'': (Omit if not provided by recipe)
+''Makes'': (Omit if not provided by recipe)
 
-## Ingredients
+!! Ingredients
 
-- Bread
-- Butter
-- Tomato, ripe
-- Deviled ham
-- Cheese, grated
-- Paprika
+* Bread
+* Butter
+* Tomato, ripe
+* Deviled ham
+* Cheese, grated
+* Paprika
 
-## Directions - Updated
-
-
-
-## Directions - Original
+!! Directions
 
 Cut white bread in rounds with cutter, toast and butter, lay on a slice of ripe tomato, spread it with some deviled ham, then grate cheese over all, and season with paprika. Put in oven until the cheese is melted, and serve hot. 

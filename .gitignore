@@ -3,6 +3,7 @@
 *~*
 *backup*
 *.idea*
+*.tiddlywiki*
 
 */template.md
 

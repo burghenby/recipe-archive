@@ -1,13 +1,13 @@
-# Chai Seasoning
+{H1} Chai Seasoning
 ---
-## Ingredients
+!! Ingredients
 
-- 6 tsp. ground ginger
-- 4 tsp.ground cinnamon
-- 2 tsp. ground cardamom
-- 2 tsp. ground allspice
-- 2 tsp. ground nutmeg
-- 2 tsp. ground cloves
+* 6 tsp. [[ground ginger|Ground Ginger]]
+* 4 tsp.ground cinnamon
+* 2 tsp. [[ground cardamom|Ground Cardamom]]
+* 2 tsp. [[ground allspice|Ground Allspice]]
+* 2 tsp. [[ground nutmeg|Ground Nutmeg]]
+* 2 tsp. [[ground cloves|Ground Cloves]]
 
-## Uses
+!! Uses
 This is excellent in batters for pancakes, muffins, and breads.

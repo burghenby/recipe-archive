@@ -2,28 +2,29 @@
 |:-------:|:---------:|:-------:|
 | Dessert | Container |  None   |
 
-# Brown Sugar Cookies
+{H1} Brown Sugar Cookies
 
-- **Source**: _Crisco_ All-Vegetable Shortening package holiday wrapper. This is the recipe that I utilize as part of my "Chunky Chocolate Cookies" in place of a packaged sugar cookie mix.
+!! Source
+[[Crisco|Crisco brand]] All-Vegetable Shortening package holiday wrapper. This is the recipe that I utilize as part of my "Chunky Chocolate Cookies" in place of a packaged sugar cookie mix.
 ---
 
-## Ingredients
+!! Ingredients
 
-- 2 c. Flour
-- 1/2 tsp. Baking soda
-- 1/4 tsp. Salt
-- 1-1/4 c. Brown sugar, firmly packed
-- 1/2 c. Shortening
-- 1/2 c. Butter
-- 1 tsp. Vanilla
-- 1 Large egg
+* 2 c. Flour
+* 1/2 tsp. [[baking soda|Baking Soda]]
+* 1/4 tsp. [[salt|Salt]]
+* 1-1/4 c. [[brown sugar|Brown Sugar]], firmly packed
+* 1/2 c. Shortening
+* 1/2 c. Butter
+* 1 tsp. Vanilla
+* 1 Large egg
 
-## Directions
+!! Directions
 
-Preheat oven to 350°F. Beat egg, brown sugar, butter, shortening, and vanilla in a large bowl until creamy. In a separate bowl, combine flour, baking soda, and salt. Gradually add to creamy mixture, beating on low until just blended.\
-\
+Preheat oven to 350°F. Beat egg, brown sugar, butter, shortening, and vanilla in a large bowl until creamy. In a separate bowl, combine flour, baking soda, and salt. Gradually add to creamy mixture, beating on low until just blended.
+
 Shape dough into 1-in. balls. Place on parchment-lined baking sheet, evenly spaced apart. Bake 12-14 minutes or until centers are just cooked. Cool on pan for 2 min. before moving to wire rack to cool completely.
 
-## Alternate
+!! Alternate
 
 To use as a chocolate chip cookie, see "Chunky Chocolate Cookies"

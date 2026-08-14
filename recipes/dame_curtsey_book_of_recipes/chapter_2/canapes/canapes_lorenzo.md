@@ -2,28 +2,26 @@
 |----|------|------|
 |Appetizer|"Dame Curtsey's" Book of Recipes|None|
 
-# Canapes Lorenzo
+{H1} Canapes Lorenzo
 
-- **Source**: *"Dame Curtsey's" Book of Recipes*
+!! Source
+[["Dame Curtsey's" Book of Recipes|"Dame Curtsey's" Book of Recipes]]
 ---
-**Prep Time**: (Omit if not provided by recipe)\
-**Total Time**: (Omit if not provided by recipe)\
-**Makes**: (Omit if not provided by recipe)
+''Prep Time'': (Omit if not provided by recipe)
+''Total Time'': (Omit if not provided by recipe)
+''Makes'': (Omit if not provided by recipe)
 
-## Ingredients
+!! Ingredients
 
-- Crap meat, chopped fine
-- Salt
-- Cayenne
-- Lemon juice
-- White sauce
-- Bread, toasted
-- Cheese, grated
-- Parsley
+* Crap meat, chopped fine
+* [[salt|Salt]]
+* Cayenne
+* Lemon juice
+* White sauce
+* Bread, toasted
+* Cheese, grated
+* Parsley
 
-## Directions - Updated
-
-
-## Directions - Original
+!! Directions
 
 Chop crab meat fine, season with salt, cayenne, and a few drops of lemon juice, moisten with thick white sauce. Spread circles of toast, delicately browned, with this mixture. Sprinkle thickly with grated cheese, brown in the oven, and garnish with parsley.

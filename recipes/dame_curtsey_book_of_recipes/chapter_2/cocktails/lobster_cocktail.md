@@ -2,24 +2,21 @@
 |----|------|------|
 |Appetizer|"Dame Curtsey's" Book of Recipes|None|
 
-# Lobster Cocktail
+{H1} Lobster Cocktail
 
-- **Source**: *"Dame Curtsey's" Book of Recipes*
+!! Source
+[["Dame Curtsey's" Book of Recipes|"Dame Curtsey's" Book of Recipes]]
 ---
-**Prep Time**: (Omit if not provided by recipe)\
-**Total Time**: (Omit if not provided by recipe)\
-**Makes**: (Omit if not provided by recipe)
+''Prep Time'': (Omit if not provided by recipe)
+''Total Time'': (Omit if not provided by recipe)
+''Makes'': (Omit if not provided by recipe)
 
-## Ingredients
+!! Ingredients
 
-- list as written in the recipe
-- with all quantities and units of measure
-- and preparation as listed in the ingredients
+* list as written in the recipe
+* with all quantities and units of measure
+* and preparation as listed in the ingredients
 
-## Directions - Updated
-
-Degree for copy-paste °
-
-## Directions - Original
+!! Directions
 
 One pint cold cooked lobster cut in cubes, one cupful strained tomato sauce, one tablespoonful tarragon vinegar, six drops onion juice, four drops tabasco sauce, two tablespoonfuls lemon juice, four tablespoonfuls olive oil, one saltspoonful salt, one-half saltspoonful white pepper, one tablespoonful finely minced heart celery. 

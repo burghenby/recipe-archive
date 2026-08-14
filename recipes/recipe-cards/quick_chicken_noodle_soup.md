@@ -1,31 +1,28 @@
-|Type|Origin|Issues|
-|----|------|------|
-|Main Course|Magazine|None|
+!! Quick Chicken Noodle Soup
 
-# Quick Chicken Noodle Soup
-
-- **Source**: *Cooking Light* recipe card
+!! Source
+[[Cooking Light|Cooking Light magazine]] recipe card
 ---
-**Makes**: 6 servings
+''Makes'': 6 servings
 
-## Ingredients
+!! Ingredients
 
-- 2 c. water
-- 1 (32-oz.) carton fat-free, lower-sodium chicken broth
-- 1 Tbsp. olive oil
-- 1/2 c. prechopped onion
-- 1/2 c. prechopped celery
-- 1/2 tsp. salt
-- 1/2 tsp. freshly ground black pepper
-- 1 medium carrot, chopped
-- 6 oz. fusilli (short twisted spaghetti)
-- 2-1/2 c. shredded skinless, boneless rotisserie chicken breast
-- 2 Tbsp. chopped fresh flat-leaf parsley
+* 2 c. water
+* 1 (32-oz.) carton fat-free, lower-sodium chicken broth
+* 1 Tbsp. olive oil
+* 1/2 c. prechopped onion
+* 1/2 c. prechopped celery
+* 1/2 tsp. [[salt|Salt]]
+* 1/2 tsp. freshly ground black pepper
+* 1 medium carrot, chopped
+* 6 oz. fusilli (short twisted spaghetti)
+* 2-1/2 c. shredded skinless, boneless rotisserie chicken breast
+* 2 Tbsp. chopped fresh flat-leaf parsley
 
-## Directions
+!! Steps
 
-1. Combine 2 cups water and chicken broth in a microwave-safe dish, and microwave at HIGH 5 minutes.
-2. While broth mixture heats, heat a large saucepan over medium-high heat. Add oil to pan; swirl to coat. Add onion, celery, salt, pepper, and carrot; sauté 3 minutes or until almost tender, stirring frequently. Add hot broth mixture and pasta; bring to a boil. Reduce heat; simmer 7 minutes or until pasta is almost al dente. Stir in chicken; cook 1 minute or until thoroughly heated. Stir in parsley (serving size: about 1 cup soup).
+# Combine 2 cups water and chicken broth in a microwave-safe dish, and microwave at HIGH 5 minutes.
+# While broth mixture heats, heat a large saucepan over medium-high heat. Add oil to pan; swirl to coat. Add onion, celery, salt, pepper, and carrot; sauté 3 minutes or until almost tender, stirring frequently. Add hot broth mixture and pasta; bring to a boil. Reduce heat; simmer 7 minutes or until pasta is almost al dente. Stir in chicken; cook 1 minute or until thoroughly heated. Stir in parsley (serving size: about 1 cup soup).
 
-**Tip**
+Tip
 Though we like the shape of fusilli for this soup, you can also make it with other pasta, such as wide egg noodles or even rice-shaped orzo.

@@ -1,14 +1,14 @@
-# Apple Pie Seasoning
+{H1} Apple Pie Seasoning
 ---
-## Ingredients
+!! Ingredients
 
-- 2 Tbsp. ground cinnamon
-- 1 Tbsp. ground nutmeg
-- 1 1/2 tsp. ground cardamom
-- 1 tsp. ground ginger
-- 1/2 tsp. ground allspice
+* 2 Tbsp. [[ground cinnamon|Ground Cinnamon]]
+* 1 Tbsp. [[ground nutmeg|Ground Nutmeg]]
+* 1 1/2 tsp. [[ground cardamom|Ground Cardamom]]
+* 1 tsp. [[ground ginger|Ground Ginger]]
+* 1/2 tsp. [[ground allspice|Ground Allspice]]
 
-## Uses
+!! Uses
 
 This blend works well in many places, including batters *(pancakes, cookies, cakes, etc.)*, breads *(taking care to not add too much less you upset the balance)*, and coffee grounds *(again, taking care not to add to much as the finer spices do not play nice with paper filters)*.
 

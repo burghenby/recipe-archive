@@ -1,6 +1,7 @@
-{H1} Recipe Name
+!! Recipe Name
 
-''Source'':
+!! Source
+Brand w/Line (if applicable)flavor (if applicable)  form (packet, tin, bag, etc)
 ---
 ''Prep Time'': (Omit if not provided by recipe)
 ''Total Time'': (Omit if not provided by recipe)
@@ -12,7 +13,7 @@
 * with all quantities and units of measure
 * and preparation as listed in the ingredients
 
-!! Directions
+!! Steps
 
 Degree for copy-paste °
 Provide directions as formatted in the given recipe. (Uniform formatting can be applied at a later time in the archive project.) Formatting given by the original recipes can include:

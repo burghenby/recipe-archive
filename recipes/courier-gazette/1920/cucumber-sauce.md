@@ -1,28 +1,21 @@
-|Type| Origin    |Issues|
-|----|-----------|------|
-|Type| Newspaper |None|
+{H1} Recipe Name
 
-# Recipe Name
-
-- **Source**: *Rockland Courier-Gazette*, 3-1-1921; Page 8, Nellie Maxwell, 1920
+!! Source
+[[Rockland Courier-Gazette|Rockland Courier-Gazette]], 3-1-1921; Page 8, Nellie Maxwell, 1920
 ---
-**Prep Time**: (Omit if not provided by recipe)\
-**Total Time**: (Omit if not provided by recipe)\
-**Makes**: (Omit if not provided by recipe)
+''Prep Time'': (Omit if not provided by recipe)
+''Total Time'': (Omit if not provided by recipe)
+''Makes'': (Omit if not provided by recipe)
 
-## Ingredients
+!! Ingredients
 
-- 1/2 c. heavy cream
-- Salt
-- Cayenne
-- 2 T. malt vinegar
-- 1 medium-sized cucumber
-- Onion juice
+* 1/2 c. heavy cream
+* [[salt|Salt]]
+* Cayenne
+* 2 T. malt vinegar
+* 1 medium-sized cucumber
+* Onion juice
 
-## Directions - Updated
+!! Directions 
 
-Degree for copy-paste °
-
-## Directions - Original
-
-Beat one-half cupful of heavy cream stiff, add a few grains of salt, cayenne to taste, two tablespoonfuls of malt vinegar, one medium sized cucumber grated and drained, season with the juice of an onion. This sauce is especially good served with fish.
+# Beat one-half cupful of heavy cream stiff, add a few grains of salt, cayenne to taste, two tablespoonfuls of malt vinegar, one medium sized cucumber grated and drained, season with the juice of an onion. This sauce is especially good served with fish.

@@ -1,18 +1,15 @@
-|  Type   |Origin|Issues|
-|:-------:|:----------:|:-------:|
-| Dessert |Container|None|
+{H1} Meringue
 
-# Meringue
-
-- **Source**: *Giant Eagle* sweetened coconut flakes bag
+!! Source
+[[Giant Eagle|Giant Eagle brand]] sweetened coconut flakes bag
 ---
 
-## Ingredients
+!! Ingredients
 
-- 3 egg whites
-- 1/4 tsp. cream of tartar
-- 1/4 c. sugar
+* 3 [[egg white|Egg White]]s
+* 1/4 tsp. cream of tartar
+* 1/4 c. sugar
 
-## Directions
+!! Directions
 
-In a small mixing bowl, beat egg whites with cream of tartar until soft peaks form. Gradually add sugar, continuing to beat until stiff peajs form. Meringue is ready to spread on top of pie.
+# In a small mixing bowl, beat egg whites with cream of tartar until soft peaks form. Gradually add sugar, continuing to beat until stiff peajs form. Meringue is ready to spread on top of pie.

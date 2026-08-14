@@ -1,19 +1,16 @@
-|  Type  |Origin|Issues|
-|:------:|:----------:|:-------:|
-| Entree |Container|None|
+{H1} Steamed Shrimp
 
-# Steamed Shrimp
-
-- **Source**: *Old Bay* seasoning tin
+!! Source
+[[Old Bay|Old Bay brand]] seasoning tin
 ---
 
-## Ingredients
+!! Ingredients
 
-- 2 Tbsp. Old Bay seasoning
-- 1/2 c. vinegar
-- 1/2 c. water
-- 1 lb. shrimp, in shells
+* 2 Tbsp. Old Bay seasoning
+* 1/2 c. vinegar
+* 1/2 c. water
+* 1 lb. shrimp, in shells
 
-## Directions
+!! Directions
 
-In saucepan, combine first 3 ingredients. Bring to a boil. Add shrimp, stir gently. Cover; steam until tender, about 3-5 minutes. Drain; remove shells.
+# In saucepan, combine first 3 ingredients. Bring to a boil. Add shrimp, stir gently. Cover; steam until tender, about 3-5 minutes. Drain; remove shells.

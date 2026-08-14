@@ -2,24 +2,21 @@
 |----|------|------|
 |Appetizer|"Dame Curtsey's" Book of Recipes|None|
 
-# Watermelon, Chilled
+{H1} Watermelon, Chilled
 
-- **Source**: *"Dame Curtsey's" Book of Recipes*
+!! Source
+[["Dame Curtsey's" Book of Recipes|"Dame Curtsey's" Book of Recipes]]
 ---
-**Prep Time**: (Omit if not provided by recipe)\
-**Total Time**: (Omit if not provided by recipe)\
-**Makes**: (Omit if not provided by recipe)
+''Prep Time'': (Omit if not provided by recipe)
+''Total Time'': (Omit if not provided by recipe)
+''Makes'': (Omit if not provided by recipe)
 
-## Ingredients
+!! Ingredients
 
-- list as written in the recipe
-- with all quantities and units of measure
-- and preparation as listed in the ingredients
+* list as written in the recipe
+* with all quantities and units of measure
+* and preparation as listed in the ingredients
 
-## Directions - Updated
-
-Degree for copy-paste °
-
-## Directions - Original
+!! Directions
 
 From the very ripe center of a very cold melon cut slices an inch thick. Cut in cubes or rounds, mix six teaspoons of powdered sugar and six teaspoonfuls of rum. Put fruit in glasses, pour rum over, and serve with a bit of shaved ice in each glass. 

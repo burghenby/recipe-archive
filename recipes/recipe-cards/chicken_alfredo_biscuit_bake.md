@@ -1,31 +1,28 @@
-|Type|Origin|Issues|
-|----|------|------|
-|Main Course|Magazine|None|
+!! Chicken-Alfredo Biscuit Bake
 
-# Chicken-Alfredo Biscuit Bake
-
-- **Source**: *Pillsbury* grocery store recipe card, early 2000's
+!! Source
+[[Pillsbury|Pillsbury brand]] grocery store recipe card, early 2000's
 ---
-**Prep Time**: 15 minutes\
-**Total Time**: 40 hours\
-**Makes**: 5 servings
+''Prep Time'': 15 minutes
+''Total Time'': 40 hours
+''Makes'': 5 servings
 
-## Ingredients
+!! Ingredients
 
-- 1 Tbsp. butter
-- 2 c. sliced fresh mushrooms
-- 1 medium onion, chopped (1/2 cup)
-- 1 jar (16 oz.) Alfredo pasta sauce
-- 1 c. milk
-- 2 c. chopped cooked chicken
-- 2 c. Green Giant Valley Fresh Steamers Selecte frozen broccoli florets (from 12-oz. bag), thawed
-- 1 tsp. dried basil leaves
-- 1 can Pillsbury refrigerated buttermilk biscuits
-- 1 Tbsp. butter, melted
-- 1 Tbsp. grated Parmesan cheese
+* 1 Tbsp. butter
+* 2 c. sliced fresh mushrooms
+* 1 medium onion, chopped (1/2 cup)
+* 1 jar (16 oz.) Alfredo pasta sauce
+* 1 c. milk
+* 2 c. chopped cooked chicken
+* 2 c. Green Giant Valley Fresh Steamers Selecte frozen broccoli florets (from 12-oz. bag), thawed
+* 1 tsp. dried basil leaves
+* 1 can Pillsbury refrigerated buttermilk biscuits
+* 1 Tbsp. butter, melted
+* 1 Tbsp. grated Parmesan cheese
 
-## Directions
+!! Steps
 
-1. Heat oven to 375°F. Spray 8-inch square (2-quart) glass baking dish with cooking spray.
-2. In 10-inch nonstick skillet, melt 1 tablespoon butter over medium heat. Cook mushrooms and onion in butter about 5 minutes, stirring occasionally, until softened. Stir in Alfredo sauce, milk, chicken, broccoli and basil. Cook until thoroughly heated and bubbly, stirring constantly. Spoon mixture into baking dish.
-3. Separate dough into 10 biscuits; cut each biscuit in half crosswise. Arrange around edge of baking dish, overlapping slightly. Drizzle biscuits with melted butter; sprinkle with cheese. Bake 15 to 20 minutes or until biscuits are golden brown. Let stand 5 minutes before serving.
+# Heat oven to 375°F. Spray 8-inch square (2-quart) glass baking dish with cooking spray.
+# In 10-inch nonstick skillet, melt 1 tablespoon butter over medium heat. Cook mushrooms and onion in butter about 5 minutes, stirring occasionally, until softened. Stir in Alfredo sauce, milk, chicken, broccoli and basil. Cook until thoroughly heated and bubbly, stirring constantly. Spoon mixture into baking dish.
+# Separate dough into 10 biscuits; cut each biscuit in half crosswise. Arrange around edge of baking dish, overlapping slightly. Drizzle biscuits with melted butter; sprinkle with cheese. Bake 15 to 20 minutes or until biscuits are golden brown. Let stand 5 minutes before serving.

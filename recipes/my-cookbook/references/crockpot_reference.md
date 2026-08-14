@@ -1,6 +1,6 @@
-# Crock Pot Cooking References
+{H1} Crock Pot Cooking References
 
-## Cooking Time Conversions
+!! Cooking Time Conversions
 
 |   Stove/Oven   |    Low    |    High    |
 |:--------------:|:---------:|:----------:|
@@ -13,14 +13,14 @@
 |      N/A       | 11 hours  |  7 hours   |
 |      N/A       | 12 hours  |  8 hours   |
 
-## Layering Ingredients
+!! Layering Ingredients
 
 4. Liquid poured over and around ingredients
 3. More delicate vegetables (Ex. Broccoli, asparagus, etc.)
 2. Grains
 1. Meats and harder root vegetables (Potato, carrot, parsnip, etc.)
 
-## Meat Cooking Times
+!! Meat Cooking Times
 
 |       Meat       | Weight |     Low     |    High     |
 |:----------------:|:------:|:-----------:|:-----------:|
@@ -31,12 +31,12 @@
 |     Chicken      |  6 lb  | 7-1/2 hours | 6-1/2 hours |
 |       Fish       |  3 lb  | 3-1/2 hours | 1-1/2 hours |
 
-## Add at the End
+!! Add at the End
 
-- Hot Sauce
-- Lemon Juice (or any citrus)
-- Olive Oil
-- Basil, Parsley
-- Grated Parmesan Cheese
-- **_Last 30 minutes_**: Pasta, Peas, Corn
-- **_Last 15 minutes_**: Dairy, Beans, Leafy Vegetables
+* Hot Sauce
+* Lemon Juice (or any citrus)
+* Olive Oil
+* Basil, Parsley
+* Grated Parmesan Cheese
+_Last 30 minutes_: Pasta, Peas, Corn
+_Last 15 minutes_: Dairy, Beans, Leafy Vegetables

@@ -1,25 +1,22 @@
-|Type|Origin|Issues|
-|:---------:|:----------:|:-------:|
-|Dessert|Container|None|
+{H1} Cool & Creamy Mixed Berry Smoothie
 
-# Cool & Creamy Mixed Berry Smoothie
-
-- **Source**: *Cool Whip* Original tub
+!! Source
+[[Cool Whip|Cool Whip brand]] Original tub
 ---
-**Prep Time**: 5 min.\
-**Total Time**: 5 min.\
-**Makes**: 1 serving
+''Prep Time'': 5 min.
+''Total Time'': 5 min.
+''Makes'': 1 serving
 
-## Ingredients
+!! Ingredients
 
-- 3/4 c. milk
-- 1/2 c. thawed COOL WHIP Whipped Topping
-- 1 c. frozen unsweetened mixed berries (blackberries, blueberries, raspberries, strawberries)
+* 3/4 c. milk
+* 1/2 c. thawed COOL WHIP Whipped Topping
+* 1 c. frozen unsweetened mixed berries (blackberries, blueberries, raspberries, strawberries)
 
-## Directions
+!! Directions
 
-**BLEND** ingredients in blender until smooth.
-**SERVE** immediately.
+# BLEND ingredients in blender until smooth.
+# SERVE immediately.
 
-*Substitute*:
+!! Substitute
 Prepare using your favorite combination of frozen fruit.
